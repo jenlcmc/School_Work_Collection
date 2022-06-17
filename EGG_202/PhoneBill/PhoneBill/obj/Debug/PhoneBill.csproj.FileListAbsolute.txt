@@ -1,0 +1,7 @@
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\bin\Debug\PhoneBill.exe.config
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\bin\Debug\PhoneBill.exe
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\bin\Debug\PhoneBill.pdb
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\obj\Debug\PhoneBill.csproj.AssemblyReference.cache
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\obj\Debug\PhoneBill.csproj.CoreCompileInputs.cache
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\obj\Debug\PhoneBill.exe
+D:\UNLV\EGG 202 LAB\PhoneBill\PhoneBill\obj\Debug\PhoneBill.pdb

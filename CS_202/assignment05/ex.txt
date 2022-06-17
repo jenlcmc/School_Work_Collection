@@ -1,0 +1,99 @@
+$ make
+g++ -c -o organism.o organism.cpp
+g++ -c -o animal.o animal.cpp
+g++ -c -o plant.o plant.cpp
+g++ -c -o herbivore.o herbivore.cpp
+g++ -c -o randNum.o randNum.cpp
+g++ -c -o main.o main.cpp
+g++ organism.o animal.o plant.o herbivore.o randNum.o main.o -Wall -pedantic -o PondSimulator
+$ ./PondSimulator
+Enter pond data file:
+Enter amount of weeks
+WEEK 1 RESULTS
+Fish With Weight 41.6
+Fish With Weight 46.7
+Plant weight 15.3
+Fish With Weight 48.5
+Plant weight 22.61
+Plant weight 19.28
+Fish With Weight 35.1
+Fish With Weight 31.2
+Fish With Weight 23.1
+Plant weight 10.38
+Fish With Weight 33.8
+Plant weight 10.4
+Plant weight 23.67
+Fish With Weight 17.5
+Fish With Weight 48.3
+Plant weight 17.26
+Plant weight 9.88
+Plant weight 22.41
+WEEK 2 RESULTS
+Plant weight 22.96 Fish With Weight 22.2 Plant weight 10.48
+PondData.csv
+for the simulation: 20
+8
+ Fish With Weight 44.4 Fish With Weight 16 Fish With Weight 47 Fish With Weight 29.4 Plant weight 10.4 Plant weight 19.58 Plant weight 14.19 Plant weight 24.56 Fish With Weight 45.6 Plant weight 10.86 Plant weight 23.93 Plant weight 18.1 Fish With Weight 39.2 Fish With Weight 31.6 Fish With Weight 33.2
+WEEK 3 RESULTS
+Plant weight 25.76 Plant weight 19.08 Fish With Weight 27.6 Fish With Weight 42.1 Plant weight 14.12 Plant weight 19.2 Fish With Weight 45.5 Plant weight 9.51 Plant weight 10.56 Plant weight 26.3 Fish With Weight 31.3 Fish With Weight 42.9 Fish With Weight 29.4 Fish With Weight 36.8 Fish With Weight 21.3 Plant weight 10.42 Fish With Weight 14.5 Plant weight 24.14
+WEEK 4 RESULTS
+Plant weight 10.86 Fish With Weight 13 Plant weight 19.96 Plant weight 14.61 Plant weight 24.46 Plant weight 10.61 Plant weight 9.57 Fish With Weight 27.2 Fish With Weight 39.8 Fish With Weight 34.4 Fish With Weight 40.2 Fish With Weight 20.4 Fish With Weight 29.4 Fish With Weight 44 Fish With Weight 25.8
+9
+
+ Plant weight 27.24 Plant weight 27.7 Plant weight 19.11
+WEEK 5 RESULTS
+Fish With Weight 19.5 Plant weight 27.93 Plant weight 11.41 Plant weight 8.91 Fish With Weight 37.5 Fish With Weight 27.5 Plant weight 26.56 Fish With Weight 24 Fish With Weight 37.5 Plant weight 20.12 Fish With Weight 32 Plant weight 11.02 Plant weight 29.25 Plant weight 21.15 Fish With Weight 42.5 Plant weight 15.92 Fish With Weight 25 Fish With Weight 11.5
+WEEK 6 RESULTS
+Plant weight 19.85 Plant weight 30.01 Plant weight 11.98 Fish With Weight 41 Fish With Weight 22.8 Plant weight 27.71 Fish With Weight 29.6 Plant weight 16.93 Fish With Weight 22.2 Fish With Weight 25.6 Plant weight 28.16 Fish With Weight 18.6 Fish With Weight 10 Plant weight 9.49 Fish With Weight 34.8 Plant weight 11.18 Plant weight 21.4 Fish With Weight 35.2
+WEEK 7 RESULTS
+Plant weight 18.1 Fish With Weight 23.7 Fish With Weight 27.2 Plant weight 29.11 Fish With Weight 32.1 Fish With Weight 20.4
+10
+
+ Plant weight 11.85 Fish With Weight 8.5 Plant weight 11.92 Fish With Weight 32.9 Plant weight 30.36 Plant weight 9.24 Fish With Weight 17.7 Plant weight 22.07 Fish With Weight 39.5 Fish With Weight 20.6 Plant weight 30.69 Plant weight 20.72
+WEEK 8 RESULTS
+Plant weight 32.32 Fish With Weight 38 Fish With Weight 16.8 Fish With Weight 30.6 Plant weight 11.69 Fish With Weight 24.8 Fish With Weight 18.6 Fish With Weight 21.8 Plant weight 9.46 Plant weight 22.82 Plant weight 31.1 Fish With Weight 29.4 Plant weight 30.69 Plant weight 17.41 Plant weight 13.16 Fish With Weight 7 Fish With Weight 18.4 Plant weight 21.18
+WEEK 9 RESULTS
+Fish With Weight 19.9 Plant weight 22.65 Plant weight 18.42 Plant weight 32.28 Plant weight 13.79 Fish With Weight 15.9 Plant weight 10.37 Plant weight 22.16 Fish With Weight 26.7 Fish With Weight 16.2 Fish With Weight 5.5 Fish With Weight 16.8 Plant weight 12.29 Fish With Weight 28.3 Fish With Weight 36.5 Plant weight 32.93 Fish With Weight 22.4 Plant weight 32.13
+11
+
+ WEEK 10 RESULTS Plant weight 11.88 Plant weight 14.54 Fish With Weight 15 Plant weight 23.17 Fish With Weight 24 Plant weight 9.68 Plant weight 34.19 Plant weight 18.57 Fish With Weight 4 Fish With Weight 15 Fish With Weight 18 Fish With Weight 14 Fish With Weight 35 Fish With Weight 26 Plant weight 32.86 Fish With Weight 20 Plant weight 33.05 Plant weight 23
+WEEK 11 RESULTS
+Plant weight 9.73 Plant weight 24.26 Fish With Weight 23.7 Plant weight 18.67 Fish With Weight 2.5 Fish With Weight 13.2 Plant weight 34.26 Fish With Weight 21.3 Fish With Weight 16.1 Fish With Weight 11.8 Fish With Weight 33.5 Plant weight 12.18 Fish With Weight 17.6 Plant weight 34.08 Fish With Weight 14.1 Plant weight 15.11 Plant weight 23.07 Plant weight 33.63
+WEEK 12 RESULTS
+Plant weight 23.16 Plant weight 33.95 Plant weight 9.66 Fish With Weight 11.4 Plant weight 15.73 Fish With Weight 1 Plant weight 25.26 Plant weight 34.4 Fish With Weight 18.6
+12
+
+ Plant weight 12.68 Fish With Weight 32 Fish With Weight 13.2 Plant weight 35.53 Fish With Weight 9.6 Fish With Weight 15.2 Plant weight 17.81 Fish With Weight 21.4 Fish With Weight 14.2
+WEEK 13 RESULTS
+Plant weight 9.11 Fish With Weight 15.9 FISH DIED
+Fish With Weight 30.5 Plant weight 23.27 Plant weight 36.31 Plant weight 12.75 Fish With Weight 19.1 Fish With Weight 9.6 Fish With Weight 12.8 Fish With Weight 12.3 Plant weight 37.63 Fish With Weight 12.3 Fish With Weight 7.4 Plant weight 17.04 Plant weight 35.72 Plant weight 18.58 Plant weight 25.7
+WEEK 14 RESULTS
+Fish With Weight 7.8 Plant weight 16.94 Fish With Weight 5.2 Plant weight 12.21 Plant weight 8.7 Plant weight 18.71 Plant weight 25.02 Plant weight 37.8 Fish With Weight 10.4 Fish With Weight 13.2 Fish With Weight 29 Plant weight 38.88 Plant weight 23.21 Fish With Weight 11.4 Plant weight 36.56 Fish With Weight 16.8 Fish With Weight 10.4
+WEEK 15 RESULTS Plant weight 16.6
+13
+
+ Plant weight 23.76 Plant weight 39.4 Fish With Weight 27.5 Plant weight 36.33 Plant weight 24.45 Plant weight 9.47 Fish With Weight 3 Plant weight 12.56 Fish With Weight 14.5 Fish With Weight 10.5 Plant weight 40.54 Fish With Weight 8.5 Fish With Weight 6 Fish With Weight 10.5 Plant weight 18.72 Fish With Weight 8
+WEEK 16 RESULTS
+Fish With Weight 0.8 Plant weight 24.61 Plant weight 17.04 Fish With Weight 26 Plant weight 18.42 Plant weight 12.16 Fish With Weight 5.6 Plant weight 37.43 Plant weight 42.14 Plant weight 8.64 Fish With Weight 6.6 Fish With Weight 4.2 Plant weight 39.63 Plant weight 24.83 Fish With Weight 7.8 Fish With Weight 12.2 Fish With Weight 9.6
+WEEK 17 RESULTS
+Plant weight 25.09 Fish With Weight 4.7 Fish With Weight 8.7 Plant weight 18.21 Fish With Weight 2.4 FISH DIED
+Plant weight 38.4 Fish With Weight 3.2 Fish With Weight 5.1 Plant weight 8.24 Plant weight 26.26 Fish With Weight 24.5 Plant weight 18.6 Fish With Weight 9.9 Plant weight 43.08
+14
+
+ Plant weight 40.85 Plant weight 12.9
+WEEK 18 RESULTS
+Fish With Weight 23 Plant weight 41.97 Plant weight 12.56 Fish With Weight 0.6 Plant weight 8.15 Plant weight 19.29 Fish With Weight 2.8 Fish With Weight 2.4 Fish With Weight 7.8 Plant weight 44.19 Plant weight 26.1 Plant weight 17.85 Fish With Weight 0.8 Fish With Weight 7.6 Plant weight 39.67 Plant weight 27.56
+WEEK 19 RESULTS
+Fish With Weight 21.5 Fish With Weight 6.9 Plant weight 43.83 Plant weight 45.79 Plant weight 18.98 Plant weight 8.88 FISH DIED
+Plant weight 19.79 Plant weight 27.23 FISH DIED
+Fish With Weight 0.9 Fish With Weight 5.3 Plant weight 13.22 Plant weight 40.35 FISH DIED
+Plant weight 28.5
+WEEK 20 RESULTS Fish With Weight 20 Plant weight 13.95 Plant weight 21.05 Plant weight 45.19 Plant weight 19.74 Plant weight 29.69 Plant weight 46.15 FISH DIED
+Plant weight 9.49 Fish With Weight 6 Plant weight 28
+15
+
+Plant weight 42.55 Fish With Weight 3
+Ending simulation FISH DIED
+PLANT DIED
+PLANT DIED
+PLANT DIED PLANT DIED PLANT DIED PLANT DIED PLANT DIED FISH DIED PLANT DIED PLANT DIED FISH DIED

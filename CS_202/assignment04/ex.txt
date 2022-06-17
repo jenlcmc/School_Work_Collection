@@ -1,0 +1,211 @@
+Sample Run
+$ make
+g++ -c -o main.o main.cpp
+g++ -c -o mastermind.o mastermind.cpp
+g++ main.o mastermind.o $ ./ game
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: C No current game found
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: l
+-o game
+There is no game to load. Unable to complete the task. No current game found
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: X
+4
+ Nope. 0/10. Do not
+MAIN MENU
+(P)lay a new game (L)oad an existing (C)ontinue current (Q)uit the program
+Choose an option: p
+approve of this input
+game game
+Enter the peg colors followed by 0
+0
+Sorry! You need at least 1 peg to play the game 0
+Sorry! You need at least 1 peg to play the game red blue BlUe GrEen ORANGE 0
+Turn 1: Enter 4 colors or (P)ause: red green orange BLUE
+Gold pegs: 1
+Silver pegs: 3
+Turn 2: Enter 4 colors or (P)ause: p
+Ok, we all need a break sometimes
+Would you (Y/N): h (Y/N): i (Y/N): n Ok that ’s
+like to save the game?
+fine , you can
+always resume
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: c
+Turn 2: Enter 4 red red red red Gold pegs: 1 Silver pegs: 0
+colors or (P)ause:
+Turn 3: Enter 4
+p
+Ok, we all need Would you like to (Y/N): y
+Ok saving game
+MAIN MENU
+(P)lay a new game
+colors or (P)ause:
+a
+break sometimes save the game?
+5
+
+ (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: C No current game found
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: l
+Turn 3: Enter 4 colors or (P)ause: p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): n
+Ok that ’s fine , you can
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: p
+always resume
+Enter the peg colors followed by 0 green yellow blue
+0
+You already have a game in progress
+Would you like to save
+(Y/N): y
+Saving current game ...
+Turn 1: Enter 3 colors red red red
+Gold pegs: 0
+Silver pegs: 0
+Turn 2: Enter 3 colors
+p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): n
+Ok that ’s fine , you can always resume
+the game?
+or (P)ause:
+or (P)ause:
+6
+
+ MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: l
+This action will destroy current game. This action cannot be undone.
+Do you wish to continue?
+(Y/N): y
+Ok loading game
+Turn 3: Enter 4 colors or (P)ause: p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): n
+Ok that ’s fine , you can
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: l
+always
+resume
+There is no game to load. Unable to complete the task.
+Turn 3: Enter 4 colors or (P)ause: p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): n
+Ok that ’s fine , you can
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: p
+always
+resume
+Enter the peg colors followed by 0 green orange yellow 0
+You already have a game in progress
+7
+
+ Would you like to save
+(Y/N): y
+Saving current game ...
+Turn 1: Enter 3 colors red red red
+Gold pegs: 0
+Silver pegs: 0
+Turn 2: Enter 3 colors
+p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): y
+Ok saving game
+There is a saved game
+This action will destroy/overwrite previosuly saved game. Is this ok? (Y/N): n
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: p
+Enter the peg colors followed by 0 red blue orange pink purple 0
+You already have a game in progress Would you like to save the game?
+(Y/N): y
+Saving current game ...
+There is a saved game
+This action will destroy/overwrite previosuly saved game. Is this ok? (Y/N): n
+Turn 2: Enter 3 red yellow blue Gold pegs: 0 Silver pegs: 1
+colors or (P)ause:
+Turn 3: Enter 3 yellow blue green Gold pegs: 0 Silver pegs: 2
+the game?
+or (P)ause:
+or (P)ause:
+colors or (P)ause:
+8
+
+ Turn 4: Enter 3 colors or (P)ause: green blue yellow
+Gold pegs: 2
+Silver pegs: 0
+Turn 5: Enter 3 colors or (P)ause: green orange yellow
+Gold pegs: 3
+Silver pegs: 0
+You won! :) Destroying game
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: c No current game found
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: L
+Turn 3: Enter 4 colors or (P)ause: green orange blue
+red
+Gold pegs: 0
+Silver pegs: 4
+Turn 4: Enter 4 colors or (P)ause: orange green red blue
+Gold pegs: 0
+Silver pegs: 4
+Turn 5: Enter 4 colors or (P)ause: red blue green orange
+Gold pegs: 4
+Silver pegs: 0
+You won! :) Destroying game
+MAIN MENU
+(P)lay a new game (L)oad an existing game
+9
+
+ (C)ontinue current game (Q)uit the program
+Choose an option: P
+Enter the peg colors followed by 0
+red blue yellow
+Turn 1: Enter 4 blue red orange Gold pegs: 0 Silver pegs: 2
+Turn 2: Enter 4 red red red red Gold pegs: 1 Silver pegs: 0
+grey 0
+colors pink
+colors
+or (P)ause:
+or (P)ause:
+or (P)ause:
+or (P)ause:
+or (P)ause:
+Turn 3: Enter 4 red blue red blue Gold pegs: 2 Silver pegs: 0
+Turn 4: Enter 4 colors blue blue blue blue Gold pegs: 1
+Silver pegs: 0
+Turn 5: Enter 4 colors green yellow blue red Gold pegs: 0
+Silver pegs: 3
+You lost! :( Destroying game
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: p
+colors
+Enter the peg colors followed by 0 red 0
+Turn 1: Enter 1 colors or (P)ause: p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): y
+Ok saving game
+10
+
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+Choose an option: p
+Enter the peg colors followed by 0 blue 0
+Turn 1: Enter 1 colors or (P)ause: p
+Ok, we all need a break sometimes Would you like to save the game? (Y/N): n
+Ok that ’s fine , you can
+MAIN MENU
+(P)lay a new game (L)oad an existing game (C)ontinue current game (Q)uit the program
+always
+resume
+Choose an option: Q
+Ok stay safe, I hope this took your mind off of everything

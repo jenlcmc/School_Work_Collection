@@ -1,0 +1,40 @@
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.csproj.AssemblyReference.cache
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.Form1.resources
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.Properties.Resources.resources
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.csproj.GenerateResource.cache
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.csproj.CoreCompileInputs.cache
+C:\Users\uyen tran\source\repos\as7\as7\bin\Debug\as7.exe.config
+C:\Users\uyen tran\source\repos\as7\as7\bin\Debug\as7.exe
+C:\Users\uyen tran\source\repos\as7\as7\bin\Debug\as7.pdb
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.exe
+C:\Users\uyen tran\source\repos\as7\as7\obj\Debug\as7.pdb
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Debug\as7.exe.config
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Debug\as7.exe
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Debug\as7.pdb
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.csprojAssemblyReference.cache
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.Form1.resources
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.Properties.Resources.resources
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.csproj.GenerateResource.cache
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.csproj.CoreCompileInputs.cache
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.exe
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Debug\as7.pdb
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.exe.config
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.exe
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.pdb
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csprojAssemblyReference.cache
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.Form1.resources
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.Properties.Resources.resources
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csproj.GenerateResource.cache
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csproj.CoreCompileInputs.cache
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.exe
+C:\Users\kiity\Downloads\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.pdb
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.exe.config
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.exe
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\bin\Debug\as7.pdb
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csprojAssemblyReference.cache
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.Form1.resources
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.Properties.Resources.resources
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csproj.GenerateResource.cache
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.csproj.CoreCompileInputs.cache
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.exe
+C:\Users\tranu2\Downloads\as7-20211118T213253Z-001-20211119T223311Z-001\as7-20211118T213253Z-001\as7\as7\obj\Debug\as7.pdb

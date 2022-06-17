@@ -1,0 +1,288 @@
+[piotrj1@bobby test]$ valgrind ./a.out
+==13113== Memcheck, a memory error detector
+==13113== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==13113== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==13113== Command: ./a.out
+==13113==
+Would you like the print the game? Chances are it will go on forever....(Y/N)
+ : N
+Here are the Decks (Players cannot see these):
+ - Player 1:
+-------------------------
+ |[H9]|  |[H3]|  |[H6]|  |[H2]|
+ |[D6]|  |[H8]|  |[DK]|  |[HQ]|
+ |[H5]|  |[HK]|  |[DJ]|  |[DA]|
+ |[D5]|  |[D3]|  |[D2]|  |[HA]|
+ |[HJ]|  |[D7]|  |[H7]|  |[D8]|
+ |[D4]|  |[D9]|  |[HT]|  |[H4]|
+ |[DQ]|  |[DT]|
+-------------------------
+ - Player 2:
+-------------------------
+ |[C4]|  |[SA]|  |[S7]|  |[CA]|
+ |[C8]|  |[S4]|  |[CT]|  |[CJ]|
+ |[CQ]|  |[S8]|  |[S6]|  |[S2]|
+ |[C7]|  |[SQ]|  |[C6]|  |[SJ]|
+ |[ST]|  |[S9]|  |[CK]|  |[C5]|
+ |[SK]|  |[S3]|  |[C3]|  |[S5]|
+ |[C9]|  |[C2]|
+-------------------------
+*******************
+Show us your cards!
+*******************
+ - Player 1:
+-------------------------
+
+-------------------------
+
+ - Player 2:
+-------------------------
+ |[SA]|  |[SK]|  |[SQ]|  |[SJ]|
+ |[ST]|  |[S9]|  |[S8]|  |[S7]|
+ |[S6]|  |[S5]|  |[S4]|  |[S3]|
+ |[S2]|  |[HA]|  |[HK]|  |[HJ]|
+ |[HT]|  |[H9]|  |[H8]|  |[H7]|
+ |[H6]|  |[H5]|  |[H4]|  |[H3]|
+ |[H2]|  |[DA]|  |[DK]|  |[DQ]|
+ |[DJ]|  |[DT]|  |[D9]|  |[D7]|
+ |[D6]|  |[D5]|  |[D4]|  |[D3]|
+ |[D2]|  |[CA]|  |[CK]|  |[CJ]|
+ |[CT]|  |[C9]|  |[C8]|  |[C7]|
+ |[C5]|  |[C4]|  |[C3]|  |[C2]|
+
+-------------------------
+
+ - The Pile:
+-------------------------
+ |[HQ]|  |[D8]|  |[CQ]|  |[C6]|
+
+-------------------------
+==13113==
+==13113== HEAP SUMMARY:
+==13113==     in use at exit: 0 bytes in 0 blocks
+==13113==   total heap usage: 3,307 allocs, 3,307 frees, 57,488 bytes allocated
+==13113==
+==13113== All heap blocks were freed -- no leaks are possible
+==13113==
+==13113== For lists of detected and suppressed errors, rerun with: -s
+==13113== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+
+
+
+
+[piotrj1@bobby test]$ valgrind ./a.out
+==13147== Memcheck, a memory error detector
+==13147== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==13147== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==13147== Command: ./a.out
+==13147==
+Would you like the print the game? Chances are it will go on forever....(Y/N)
+ : N
+Here are the Decks (Players cannot see these):
+ - Player 1:
+-------------------------
+ |[HT]|  |[D7]|  |[DA]|  |[HJ]|
+ |[D5]|  |[D2]|  |[H9]|  |[DK]|
+ |[H2]|  |[DT]|  |[DJ]|  |[HQ]|
+ |[D6]|  |[D8]|  |[DQ]|  |[H6]|
+ |[HA]|  |[D9]|  |[H8]|  |[H4]|
+ |[H3]|  |[D4]|  |[H5]|  |[HK]|
+ |[H7]|  |[D3]|
+-------------------------
+ - Player 2:
+-------------------------
+ |[CA]|  |[S3]|  |[CQ]|  |[SJ]|
+ |[C9]|  |[S9]|  |[C2]|  |[SQ]|
+ |[S8]|  |[C6]|  |[CT]|  |[C4]|
+ |[C5]|  |[S5]|  |[C3]|  |[S6]|
+ |[SK]|  |[S2]|  |[CJ]|  |[S7]|
+ |[SA]|  |[CK]|  |[C7]|  |[ST]|
+ |[C8]|  |[S4]|
+-------------------------
+*******************
+Show us your cards!
+*******************
+ - Player 1:
+-------------------------
+
+-------------------------
+
+ - Player 2:
+-------------------------
+ |[SA]|  |[SK]|  |[SQ]|  |[SJ]|
+ |[ST]|  |[S9]|  |[S8]|  |[S7]|
+ |[S6]|  |[S5]|  |[S4]|  |[S3]|
+ |[S2]|  |[HA]|  |[HK]|  |[HQ]|
+ |[HJ]|  |[HT]|  |[H9]|  |[H8]|
+ |[H7]|  |[H6]|  |[H5]|  |[H4]|
+ |[H3]|  |[H2]|  |[DA]|  |[DK]|
+ |[DQ]|  |[DJ]|  |[DT]|  |[D9]|
+ |[D8]|  |[D7]|  |[D6]|  |[D5]|
+ |[D4]|  |[D3]|  |[D2]|  |[CA]|
+ |[CK]|  |[CQ]|  |[CJ]|  |[CT]|
+ |[C9]|  |[C8]|  |[C7]|  |[C6]|
+ |[C5]|  |[C4]|  |[C3]|  |[C2]|
+
+-------------------------
+
+ - The Pile:
+-------------------------
+
+-------------------------
+==13147==
+==13147== HEAP SUMMARY:
+==13147==     in use at exit: 0 bytes in 0 blocks
+==13147==   total heap usage: 4,951 allocs, 4,951 frees, 83,792 bytes allocated
+==13147==
+==13147== All heap blocks were freed -- no leaks are possible
+==13147==
+==13147== For lists of detected and suppressed errors, rerun with: -s
+==13147== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+
+
+
+
+
+[piotrj1@bobby test]$ valgrind ./a.out
+==13173== Memcheck, a memory error detector
+==13173== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==13173== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==13173== Command: ./a.out
+==13173==
+Would you like the print the game? Chances are it will go on forever....(Y/N)
+ : N
+Here are the Decks (Players cannot see these):
+ - Player 1:
+-------------------------
+ |[D9]|  |[H4]|  |[H6]|  |[D3]|
+ |[D2]|  |[DT]|  |[HT]|  |[H9]|
+ |[D6]|  |[DK]|  |[HJ]|  |[HA]|
+ |[HQ]|  |[H2]|  |[DQ]|  |[H7]|
+ |[DJ]|  |[HK]|  |[H8]|  |[D5]|
+ |[H5]|  |[D4]|  |[H3]|  |[D7]|
+ |[D8]|  |[DA]|
+-------------------------
+ - Player 2:
+-------------------------
+ |[C2]|  |[CQ]|  |[S9]|  |[SK]|
+ |[C4]|  |[CK]|  |[S5]|  |[S6]|
+ |[C9]|  |[C5]|  |[C8]|  |[CT]|
+ |[C3]|  |[C6]|  |[S3]|  |[CJ]|
+ |[SQ]|  |[SJ]|  |[ST]|  |[S7]|
+ |[S4]|  |[C7]|  |[S2]|  |[S8]|
+ |[SA]|  |[CA]|
+-------------------------
+*******************
+Show us your cards!
+*******************
+ - Player 1:
+-------------------------
+ |[SA]|  |[SK]|  |[SQ]|  |[ST]|
+ |[S9]|  |[S8]|  |[S7]|  |[S5]|
+ |[S4]|  |[S3]|  |[S2]|  |[HA]|
+ |[HK]|  |[HQ]|  |[HJ]|  |[HT]|
+ |[H9]|  |[H6]|  |[H5]|  |[H4]|
+ |[H3]|  |[DA]|  |[DK]|  |[DQ]|
+ |[DT]|  |[D9]|  |[D8]|  |[D7]|
+ |[D6]|  |[D5]|  |[D4]|  |[D3]|
+ |[D2]|  |[CA]|  |[CQ]|  |[CJ]|
+ |[CT]|  |[C9]|  |[C7]|  |[C6]|
+ |[C5]|  |[C4]|  |[C3]|  |[C2]|
+
+-------------------------
+
+ - Player 2:
+-------------------------
+
+-------------------------
+
+ - The Pile:
+-------------------------
+ |[SJ]|  |[S6]|  |[H8]|  |[H7]|
+ |[H2]|  |[DJ]|  |[CK]|  |[C8]|
+
+-------------------------
+==13173==
+==13173== HEAP SUMMARY:
+==13173==     in use at exit: 0 bytes in 0 blocks
+==13173==   total heap usage: 2,638 allocs, 2,638 frees, 46,784 bytes allocated
+==13173==
+==13173== All heap blocks were freed -- no leaks are possible
+==13173==
+==13173== For lists of detected and suppressed errors, rerun with: -s
+==13173== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+
+
+
+[piotrj1@bobby test]$ valgrind ./a.out
+==13180== Memcheck, a memory error detector
+==13180== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==13180== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==13180== Command: ./a.out
+==13180==
+Would you like the print the game? Chances are it will go on forever....(Y/N)
+ : N
+Here are the Decks (Players cannot see these):
+ - Player 1:
+-------------------------
+ |[D7]|  |[H4]|  |[D9]|  |[H6]|
+ |[H2]|  |[HA]|  |[HJ]|  |[H8]|
+ |[D6]|  |[DJ]|  |[DT]|  |[DQ]|
+ |[D8]|  |[H7]|  |[D2]|  |[D4]|
+ |[H3]|  |[H9]|  |[HQ]|  |[H5]|
+ |[HT]|  |[HK]|  |[D5]|  |[DK]|
+ |[D3]|  |[DA]|
+-------------------------
+ - Player 2:
+-------------------------
+ |[S7]|  |[ST]|  |[C4]|  |[SA]|
+ |[C7]|  |[CJ]|  |[CQ]|  |[SJ]|
+ |[S5]|  |[CA]|  |[S9]|  |[CK]|
+ |[SK]|  |[C5]|  |[C2]|  |[C6]|
+ |[SQ]|  |[CT]|  |[C8]|  |[C9]|
+ |[S8]|  |[S2]|  |[S3]|  |[S6]|
+ |[C3]|  |[S4]|
+-------------------------
+*******************
+Show us your cards!
+*******************
+ - Player 1:
+-------------------------
+ |[SA]|  |[SK]|  |[SQ]|  |[SJ]|
+ |[S8]|  |[S7]|  |[S6]|  |[S4]|
+ |[S3]|  |[S2]|  |[HK]|  |[HQ]|
+ |[HJ]|  |[HT]|  |[H9]|  |[H8]|
+ |[H7]|  |[H6]|  |[H5]|  |[H3]|
+ |[H2]|  |[DA]|  |[DK]|  |[DQ]|
+ |[DJ]|  |[DT]|  |[D9]|  |[D8]|
+ |[D7]|  |[D6]|  |[D5]|  |[D4]|
+ |[D3]|  |[D2]|  |[CK]|  |[CQ]|
+ |[CJ]|  |[CT]|  |[C9]|  |[C8]|
+ |[C7]|  |[C6]|  |[C5]|  |[C3]|
+
+-------------------------
+
+ - Player 2:
+-------------------------
+
+-------------------------
+
+ - The Pile:
+-------------------------
+ |[ST]|  |[S9]|  |[S5]|  |[HA]|
+ |[H4]|  |[CA]|  |[C4]|  |[C2]|
+
+-------------------------
+==13180==
+==13180== HEAP SUMMARY:
+==13180==     in use at exit: 0 bytes in 0 blocks
+==13180==   total heap usage: 1,693 allocs, 1,693 frees, 31,664 bytes allocated
+==13180==
+==13180== All heap blocks were freed -- no leaks are possible
+==13180==
+==13180== For lists of detected and suppressed errors, rerun with: -s
+==13180== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+[piotrj1@bobby test]$

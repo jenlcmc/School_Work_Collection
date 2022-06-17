@@ -1,0 +1,52 @@
+3
+2
+Math 10 5
+sum
+product
+quotient
+difference
+remainder
+gain
+integration
+derivative
+factorization
+primality
+Graph 4 3
+node
+edge
+directed
+distance
+|V| is the sum of all the nodes in a graph an edge connects two vertices
+
+1
+Geometrical 4 2
+point
+convex
+polygon
+boring
+All interior angles of a convex polygon are less than 90 degrees
+Their sum product and difference is not the remainder
+
+2
+CompSci 7 2
+time
+computational
+data
+scalability
+NP-Complete
+undecidable
+algorithm
+Physics 11 4
+motion
+velocity
+acceleration
+rate
+force
+mass
+gravity
+vacuum
+displacement
+work
+energy
+NP-Hard algorithms take a long time to compute
+Force equals mass times acceleration

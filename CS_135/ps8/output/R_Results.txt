@@ -1,0 +1,6 @@
+slope: 0.2
+intercept: 2.59164e-05
+average col 1: 6026.84
+average col 2: 1205.37
+minX -> maxX: 1118 -> 11885
+minY -> maxY: 223.6 -> 2377

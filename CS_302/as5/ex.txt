@@ -1,0 +1,12 @@
+$ ./a.out
+Enter apple tree file: tree01.txt
+Minimum Time Needed: 6 
+$ ./a.out
+Enter apple tree file: tree02.txt 
+Minimum Time Needed: 12
+$ ./a.out
+Enter apple tree file: tree03.txt 
+Minimum Time Needed: 10
+$ ./a.out
+Enter apple tree file: tree04.txt
+Minimum Time Needed: 0

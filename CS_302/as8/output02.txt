@@ -1,0 +1,1467 @@
+Stocks file: Stocks.csv
+
+Sim file: Nasdaq.csv
+
+Amount of days to simulate: 50 
+
+Amount you wish to transfer into brokerage account: 15000.0
+
+Day 1 Current balance $ 15000.00
+
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 544.09 per share
+Buying one share of First Potomac Realty Trust valued at $ 571.05 per share
+Buying one share of Xencor Inc. valued at $ 591.32 per share
+Buying one share of Oceaneering International Inc. valued at $ 636.02 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 823.89 per share
+Buying one share of Digital Turbine Inc. valued at $ 897.02 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 926.18 per share
+Buying one share of TAL Education Group valued at $ 1181.30 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1232.91 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1311.11 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1324.49 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1379.66 per share
+Buying one share of Edison International valued at $ 1404.07 per share
+Buying one share of Wells Fargo & Company valued at $ 1436.23 per share
+
+Profit made today $ 5074.39
+
+Day 2 Current balance $ 20074.39
+
+Buying one share of Orchid Island Capital Inc. valued at $ 655.57 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 660.68 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 874.45 per share
+Buying one share of EPR Properties valued at $ 909.34 per share
+Buying one share of Dorian LPG Ltd. valued at $ 950.28 per share
+Buying one share of CECO Environmental Corp. valued at $ 983.23 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1012.07 per share
+Buying one share of First Potomac Realty Trust valued at $ 1072.89 per share
+Buying one share of TAL Education Group valued at $ 1093.72 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1114.37 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1136.48 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1296.17 per share
+Buying one share of Digital Turbine Inc. valued at $ 1297.39 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1323.73 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1355.28 per share
+Buying one share of Edison International valued at $ 1385.00 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1426.88 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1440.12 per share
+
+Profit made today $ 4384.76
+
+Day 3 Current balance $ 24459.15
+
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 575.76 per share
+Buying one share of TAL Education Group valued at $ 654.63 per share
+Buying one share of Wells Fargo & Company valued at $ 700.87 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 753.65 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 767.38 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 774.89 per share
+Buying one share of Ennis Inc. valued at $ 779.67 per share
+Buying one share of Digital Turbine Inc. valued at $ 1006.04 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1012.04 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1043.15 per share
+Buying one share of EPR Properties valued at $ 1044.79 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1167.69 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1217.13 per share
+Buying one share of First Potomac Realty Trust valued at $ 1271.85 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1357.46 per share
+Buying one share of Oceaneering International Inc. valued at $ 1375.17 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1531.93 per share
+Buying one share of Xencor Inc. valued at $ 1592.11 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1609.70 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1643.16 per share
+Buying one share of CECO Environmental Corp. valued at $ 1687.94 per share
+
+Profit made today $ 906.16
+
+Day 4 Current balance $ 25365.31
+
+Buying one share of Timberland Bancorp Inc. valued at $ 533.50 per share
+Buying one share of Dorian LPG Ltd. valued at $ 555.93 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 574.87 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 738.50 per share
+Buying one share of First Potomac Realty Trust valued at $ 806.90 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 815.62 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 830.87 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 840.02 per share
+Buying one share of Ennis Inc. valued at $ 876.61 per share
+Buying one share of EPR Properties valued at $ 994.67 per share
+Buying one share of Wells Fargo & Company valued at $ 1054.03 per share
+Buying one share of Digital Turbine Inc. valued at $ 1131.47 per share
+Buying one share of TAL Education Group valued at $ 1210.72 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1300.07 per share
+Buying one share of Oceaneering International Inc. valued at $ 1446.19 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1573.04 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1573.07 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1607.03 per share
+Buying one share of Edison International valued at $ 1687.83 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1731.69 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1871.60 per share
+
+Profit made today $ 3282.68
+
+Day 5 Current balance $ 28647.99
+
+Buying one share of Adaptimmune Therapeutics plc valued at $ 527.83 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 623.21 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 653.82 per share
+Buying one share of EPR Properties valued at $ 684.82 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 786.26 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 840.89 per share
+Buying one share of CECO Environmental Corp. valued at $ 921.90 per share
+Buying one share of Digital Turbine Inc. valued at $ 980.85 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 987.08 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1127.74 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1176.96 per share
+Buying one share of Wells Fargo & Company valued at $ 1190.96 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1249.03 per share
+Buying one share of Ennis Inc. valued at $ 1297.33 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1307.65 per share
+Buying one share of TAL Education Group valued at $ 1320.57 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1362.17 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1375.96 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1532.39 per share
+Buying one share of Oceaneering International Inc. valued at $ 1557.75 per share
+Buying one share of First Potomac Realty Trust valued at $ 1639.21 per share
+Buying one share of Edison International valued at $ 1796.61 per share
+Buying one share of Xencor Inc. valued at $ 1822.73 per share
+
+Profit made today $ 3615.90
+
+Day 6 Current balance $ 32263.89
+
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 542.29 per share
+Buying one share of Edison International valued at $ 641.23 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 643.56 per share
+Buying one share of First Potomac Realty Trust valued at $ 684.15 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 729.13 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 779.99 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 781.41 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 874.89 per share
+Buying one share of CECO Environmental Corp. valued at $ 1132.68 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1162.22 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1204.29 per share
+Buying one share of Oceaneering International Inc. valued at $ 1226.11 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1239.13 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1335.77 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1491.70 per share
+Buying one share of Digital Turbine Inc. valued at $ 1540.94 per share
+Buying one share of TAL Education Group valued at $ 1620.31 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1642.44 per share
+Buying one share of EPR Properties valued at $ 1688.08 per share
+Buying one share of Ennis Inc. valued at $ 1712.48 per share
+Buying one share of Wells Fargo & Company valued at $ 1794.90 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1868.09 per share
+Buying one share of Xencor Inc. valued at $ 1917.93 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1932.45 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1991.33 per share
+
+Profit made today $ -271.14
+
+Day 7 Current balance $ 31992.75
+
+Buying one share of Orchid Island Capital Inc. valued at $ 586.07 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 760.83 per share
+Buying one share of Edison International valued at $ 767.70 per share
+Buying one share of Xencor Inc. valued at $ 960.00 per share
+Buying one share of Digital Turbine Inc. valued at $ 1013.19 per share
+Buying one share of Oceaneering International Inc. valued at $ 1134.99 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1170.44 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1210.38 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1328.90 per share
+Buying one share of CECO Environmental Corp. valued at $ 1384.51 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1446.08 per share
+Buying one share of EPR Properties valued at $ 1471.59 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1566.02 per share
+Buying one share of First Potomac Realty Trust valued at $ 1670.56 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1678.32 per share
+Buying one share of TAL Education Group valued at $ 1697.82 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1747.23 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1749.55 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1783.95 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1785.24 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1809.37 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1818.24 per share
+
+Profit made today $ -4248.59
+
+Day 8 Current balance $ 27744.16
+
+Buying one share of CECO Environmental Corp. valued at $ 615.08 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 631.78 per share
+Buying one share of Wells Fargo & Company valued at $ 638.54 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 710.01 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 770.81 per share
+Buying one share of EPR Properties valued at $ 791.21 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1121.33 per share
+Buying one share of Digital Turbine Inc. valued at $ 1219.97 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1278.78 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1286.33 per share
+Buying one share of Xencor Inc. valued at $ 1373.24 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1385.33 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1419.19 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1491.54 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1494.45 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1557.63 per share
+Buying one share of Edison International valued at $ 1566.58 per share
+Buying one share of Oceaneering International Inc. valued at $ 1578.98 per share
+Buying one share of First Potomac Realty Trust valued at $ 1612.19 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1644.91 per share
+Buying one share of TAL Education Group valued at $ 1668.79 per share
+Buying one share of Ennis Inc. valued at $ 1740.18 per share
+
+Profit made today $ 3012.23
+
+Day 9 Current balance $ 30756.39
+
+Buying one share of CECO Environmental Corp. valued at $ 643.60 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 726.34 per share
+Buying one share of Edison International valued at $ 746.89 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 760.49 per share
+Buying one share of EPR Properties valued at $ 809.84 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 936.82 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 951.92 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 958.06 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1046.92 per share
+Buying one share of Digital Turbine Inc. valued at $ 1123.96 per share
+Buying one share of Ennis Inc. valued at $ 1257.80 per share
+Buying one share of Xencor Inc. valued at $ 1304.25 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1437.23 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1563.92 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1604.16 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1648.06 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1670.81 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1725.87 per share
+Buying one share of Oceaneering International Inc. valued at $ 1807.10 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1831.99 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1854.10 per share
+Buying one share of TAL Education Group valued at $ 1876.54 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1878.37 per share
+
+Profit made today $ -3662.21
+
+Day 10 Current balance $ 27094.18
+
+Buying one share of Ennis Inc. valued at $ 539.56 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 542.30 per share
+Buying one share of Dorian LPG Ltd. valued at $ 562.38 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 583.95 per share
+Buying one share of Oceaneering International Inc. valued at $ 658.80 per share
+Buying one share of Digital Turbine Inc. valued at $ 729.40 per share
+Buying one share of TAL Education Group valued at $ 802.71 per share
+Buying one share of EPR Properties valued at $ 1048.42 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1049.09 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1056.10 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1117.64 per share
+Buying one share of Edison International valued at $ 1148.20 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1212.04 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1260.65 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1290.77 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1319.73 per share
+Buying one share of CECO Environmental Corp. valued at $ 1353.82 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1389.32 per share
+Buying one share of Xencor Inc. valued at $ 1493.38 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1534.05 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1540.00 per share
+Buying one share of First Potomac Realty Trust valued at $ 1761.94 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1805.20 per share
+
+Profit made today $ 4404.94
+
+Day 11 Current balance $ 31499.12
+
+Buying one share of Timberland Bancorp Inc. valued at $ 500.63 per share
+Buying one share of Dorian LPG Ltd. valued at $ 531.07 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 601.40 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 626.19 per share
+Buying one share of First Potomac Realty Trust valued at $ 632.29 per share
+Buying one share of Ennis Inc. valued at $ 976.30 per share
+Buying one share of Wells Fargo & Company valued at $ 1007.88 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1022.33 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1108.20 per share
+Buying one share of Oceaneering International Inc. valued at $ 1123.43 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1177.23 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1284.69 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1310.57 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1470.20 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1567.13 per share
+Buying one share of TAL Education Group valued at $ 1599.36 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1609.29 per share
+Buying one share of EPR Properties valued at $ 1654.32 per share
+Buying one share of Edison International valued at $ 1688.57 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1723.98 per share
+Buying one share of Xencor Inc. valued at $ 1727.71 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1768.86 per share
+Buying one share of Digital Turbine Inc. valued at $ 1778.66 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1854.19 per share
+
+Profit made today $ -2463.77
+
+Day 12 Current balance $ 29035.35
+
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 513.92 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 514.52 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 577.84 per share
+Buying one share of Dorian LPG Ltd. valued at $ 677.48 per share
+Buying one share of TAL Education Group valued at $ 704.66 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 780.44 per share
+Buying one share of Oceaneering International Inc. valued at $ 787.13 per share
+Buying one share of EPR Properties valued at $ 1064.29 per share
+Buying one share of Edison International valued at $ 1073.30 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1183.11 per share
+Buying one share of Xencor Inc. valued at $ 1220.72 per share
+Buying one share of Digital Turbine Inc. valued at $ 1227.24 per share
+Buying one share of Wells Fargo & Company valued at $ 1412.90 per share
+Buying one share of CECO Environmental Corp. valued at $ 1425.49 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1438.37 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1576.45 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1599.76 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1604.83 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1613.67 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1775.66 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1799.73 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1817.12 per share
+Buying one share of First Potomac Realty Trust valued at $ 1841.05 per share
+
+Profit made today $ 1595.56
+
+Day 13 Current balance $ 30630.91
+
+Buying one share of Assured Guaranty Ltd. valued at $ 506.20 per share
+Buying one share of Edison International valued at $ 620.76 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 631.89 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 636.37 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 746.01 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 780.18 per share
+Buying one share of Xencor Inc. valued at $ 857.17 per share
+Buying one share of Oceaneering International Inc. valued at $ 889.97 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 977.89 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1012.09 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1076.65 per share
+Buying one share of Ennis Inc. valued at $ 1095.00 per share
+Buying one share of First Potomac Realty Trust valued at $ 1117.52 per share
+Buying one share of Digital Turbine Inc. valued at $ 1184.73 per share
+Buying one share of TAL Education Group valued at $ 1216.11 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1373.49 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1383.46 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1400.26 per share
+Buying one share of Wells Fargo & Company valued at $ 1486.63 per share
+Buying one share of EPR Properties valued at $ 1587.91 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1655.94 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1745.37 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1813.75 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1822.13 per share
+Buying one share of CECO Environmental Corp. valued at $ 1960.54 per share
+
+Profit made today $ 1239.14
+
+Day 14 Current balance $ 31870.05
+
+Buying one share of Altra Industrial Motion Corp. valued at $ 584.16 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 617.51 per share
+Buying one share of Edison International valued at $ 691.03 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 708.65 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 740.21 per share
+Buying one share of First Potomac Realty Trust valued at $ 755.03 per share
+Buying one share of Wells Fargo & Company valued at $ 765.23 per share
+Buying one share of Xencor Inc. valued at $ 901.46 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 907.93 per share
+Buying one share of Ennis Inc. valued at $ 1155.79 per share
+Buying one share of TAL Education Group valued at $ 1176.10 per share
+Buying one share of CECO Environmental Corp. valued at $ 1240.58 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1402.48 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1413.91 per share
+Buying one share of Oceaneering International Inc. valued at $ 1486.94 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1629.76 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1656.52 per share
+Buying one share of EPR Properties valued at $ 1756.50 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1855.64 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1894.41 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1914.46 per share
+Buying one share of Digital Turbine Inc. valued at $ 1941.06 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1981.77 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1995.23 per share
+
+Profit made today $ -1162.09
+
+Day 15 Current balance $ 30707.96
+
+Buying one share of Tower Semiconductor Ltd. valued at $ 524.03 per share
+Buying one share of Dorian LPG Ltd. valued at $ 541.67 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 553.81 per share
+Buying one share of Wells Fargo & Company valued at $ 579.80 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 605.90 per share
+Buying one share of Xencor Inc. valued at $ 622.94 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 689.98 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 761.69 per share
+Buying one share of Oceaneering International Inc. valued at $ 860.55 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 884.70 per share
+Buying one share of First Potomac Realty Trust valued at $ 885.45 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1092.26 per share
+Buying one share of TAL Education Group valued at $ 1125.56 per share
+Buying one share of CECO Environmental Corp. valued at $ 1149.66 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1154.59 per share
+Buying one share of Ennis Inc. valued at $ 1422.30 per share
+Buying one share of EPR Properties valued at $ 1556.25 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1562.46 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1599.23 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1612.53 per share
+Buying one share of Digital Turbine Inc. valued at $ 1645.45 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1665.51 per share
+Buying one share of Edison International valued at $ 1748.57 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1763.35 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1973.99 per share
+
+Profit made today $ 5149.39
+
+Day 16 Current balance $ 35857.35
+
+Buying one share of Assured Guaranty Ltd. valued at $ 514.15 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 612.88 per share
+Buying one share of Wells Fargo & Company valued at $ 672.58 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 678.81 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 685.60 per share
+Buying one share of First Potomac Realty Trust valued at $ 773.61 per share
+Buying one share of Oceaneering International Inc. valued at $ 852.53 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 856.60 per share
+Buying one share of Ennis Inc. valued at $ 877.28 per share
+Buying one share of Digital Turbine Inc. valued at $ 935.95 per share
+Buying one share of TAL Education Group valued at $ 976.33 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 986.56 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1039.91 per share
+Buying one share of Edison International valued at $ 1142.19 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1155.61 per share
+Buying one share of CECO Environmental Corp. valued at $ 1229.21 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1325.89 per share
+Buying one share of Xencor Inc. valued at $ 1475.74 per share
+Buying one share of EPR Properties valued at $ 1569.01 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1683.74 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1753.08 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1773.20 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1793.98 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1850.16 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1892.51 per share
+
+Profit made today $ 2650.20
+
+Day 17 Current balance $ 38507.55
+
+Buying one share of Wells Fargo & Company valued at $ 505.21 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 513.75 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 526.70 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 549.63 per share
+Buying one share of TAL Education Group valued at $ 602.72 per share
+Buying one share of Oceaneering International Inc. valued at $ 868.10 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 871.23 per share
+Buying one share of Xencor Inc. valued at $ 935.62 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 942.26 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 992.76 per share
+Buying one share of CECO Environmental Corp. valued at $ 1015.70 per share
+Buying one share of Ennis Inc. valued at $ 1019.03 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1340.91 per share
+Buying one share of EPR Properties valued at $ 1365.23 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1478.32 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1556.08 per share
+Buying one share of Edison International valued at $ 1575.57 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1662.74 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1682.79 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1692.82 per share
+Buying one share of Digital Turbine Inc. valued at $ 1812.29 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1875.28 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1897.45 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1961.49 per share
+Buying one share of First Potomac Realty Trust valued at $ 1981.18 per share
+
+Profit made today $ -519.35
+
+Day 18 Current balance $ 37988.20
+
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 558.44 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 581.61 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 646.56 per share
+Buying one share of Xencor Inc. valued at $ 662.96 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 710.62 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 731.06 per share
+Buying one share of Edison International valued at $ 766.46 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1016.11 per share
+Buying one share of Oceaneering International Inc. valued at $ 1028.08 per share
+Buying one share of CECO Environmental Corp. valued at $ 1101.81 per share
+Buying one share of Wells Fargo & Company valued at $ 1153.44 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1226.32 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1243.12 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1266.61 per share
+Buying one share of Digital Turbine Inc. valued at $ 1336.42 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1338.59 per share
+Buying one share of EPR Properties valued at $ 1343.73 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1356.14 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1470.28 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1488.74 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1593.02 per share
+Buying one share of TAL Education Group valued at $ 1605.79 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1731.30 per share
+Buying one share of First Potomac Realty Trust valued at $ 1808.91 per share
+Buying one share of Ennis Inc. valued at $ 1913.56 per share
+
+Profit made today $ 393.91
+
+Day 19 Current balance $ 38382.11
+
+Buying one share of Adaptimmune Therapeutics plc valued at $ 629.87 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 659.82 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 685.63 per share
+Buying one share of Oceaneering International Inc. valued at $ 691.23 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 731.84 per share
+Buying one share of EPR Properties valued at $ 810.83 per share
+Buying one share of CECO Environmental Corp. valued at $ 823.26 per share
+Buying one share of Dorian LPG Ltd. valued at $ 832.86 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 951.77 per share
+Buying one share of TAL Education Group valued at $ 954.81 per share
+Buying one share of Edison International valued at $ 980.19 per share
+Buying one share of First Potomac Realty Trust valued at $ 1064.42 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1074.37 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1187.97 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1291.33 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1348.67 per share
+Buying one share of Wells Fargo & Company valued at $ 1431.26 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1458.24 per share
+Buying one share of Ennis Inc. valued at $ 1527.17 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1653.15 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1695.78 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1739.05 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1788.05 per share
+Buying one share of Digital Turbine Inc. valued at $ 1820.76 per share
+Buying one share of Xencor Inc. valued at $ 1907.93 per share
+
+Profit made today $ 4141.07
+
+Day 20 Current balance $ 42523.18
+
+Buying one share of ReWalk Robotics Ltd valued at $ 505.10 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 520.44 per share
+Buying one share of Wells Fargo & Company valued at $ 536.25 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 576.37 per share
+Buying one share of Edison International valued at $ 699.12 per share
+Buying one share of Xencor Inc. valued at $ 800.51 per share
+Buying one share of Oceaneering International Inc. valued at $ 844.98 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 861.27 per share
+Buying one share of CECO Environmental Corp. valued at $ 917.78 per share
+Buying one share of Ennis Inc. valued at $ 923.24 per share
+Buying one share of Digital Turbine Inc. valued at $ 939.42 per share
+Buying one share of First Potomac Realty Trust valued at $ 1102.37 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1150.17 per share
+Buying one share of TAL Education Group valued at $ 1247.00 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1293.96 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1297.91 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1318.84 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1422.03 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1546.56 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1564.07 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1574.75 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1650.22 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1756.32 per share
+Buying one share of EPR Properties valued at $ 1891.61 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1932.22 per share
+
+Profit made today $ 2176.13
+
+Day 21 Current balance $ 44699.31
+
+Buying one share of Quinpario Acquisition Corp. valued at $ 521.77 per share
+Buying one share of Xencor Inc. valued at $ 647.19 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 652.36 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 661.91 per share
+Buying one share of Oceaneering International Inc. valued at $ 692.21 per share
+Buying one share of Digital Turbine Inc. valued at $ 709.14 per share
+Buying one share of Wells Fargo & Company valued at $ 757.26 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 913.81 per share
+Buying one share of CECO Environmental Corp. valued at $ 938.36 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1206.41 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1222.86 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1224.93 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1249.55 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1299.80 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1354.28 per share
+Buying one share of EPR Properties valued at $ 1520.95 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1686.00 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1691.89 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1762.02 per share
+Buying one share of TAL Education Group valued at $ 1898.45 per share
+Buying one share of Ennis Inc. valued at $ 1908.13 per share
+Buying one share of Edison International valued at $ 1916.71 per share
+Buying one share of First Potomac Realty Trust valued at $ 1924.52 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1950.75 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1974.04 per share
+
+Profit made today $ 108.57
+
+Day 22 Current balance $ 44807.88
+
+Buying one share of ReWalk Robotics Ltd valued at $ 554.14 per share
+Buying one share of Ennis Inc. valued at $ 625.51 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 734.62 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 890.16 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 906.80 per share
+Buying one share of Edison International valued at $ 940.92 per share
+Buying one share of Xencor Inc. valued at $ 990.11 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1026.19 per share
+Buying one share of CECO Environmental Corp. valued at $ 1031.69 per share
+Buying one share of EPR Properties valued at $ 1050.56 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1089.11 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1172.07 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1216.20 per share
+Buying one share of Wells Fargo & Company valued at $ 1249.07 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1317.74 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1345.89 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1434.00 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1489.77 per share
+Buying one share of First Potomac Realty Trust valued at $ 1552.46 per share
+Buying one share of TAL Education Group valued at $ 1559.11 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1747.44 per share
+Buying one share of Digital Turbine Inc. valued at $ 1796.84 per share
+Buying one share of Oceaneering International Inc. valued at $ 1814.41 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1935.72 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1957.55 per share
+
+Profit made today $ -711.83
+
+Day 23 Current balance $ 44096.05
+
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 505.92 per share
+Buying one share of Digital Turbine Inc. valued at $ 600.38 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 648.14 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 704.04 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 711.13 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 730.63 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 811.56 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 822.05 per share
+Buying one share of TAL Education Group valued at $ 900.38 per share
+Buying one share of Edison International valued at $ 907.38 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1035.44 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1037.02 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1063.19 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1080.96 per share
+Buying one share of First Potomac Realty Trust valued at $ 1200.16 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1339.18 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1471.46 per share
+Buying one share of Xencor Inc. valued at $ 1568.74 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1684.47 per share
+Buying one share of CECO Environmental Corp. valued at $ 1707.70 per share
+Buying one share of Wells Fargo & Company valued at $ 1718.57 per share
+Buying one share of EPR Properties valued at $ 1918.35 per share
+Buying one share of Oceaneering International Inc. valued at $ 1940.01 per share
+Buying one share of Ennis Inc. valued at $ 1955.40 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1982.66 per share
+
+Profit made today $ 366.34
+
+Day 24 Current balance $ 44462.39
+
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 593.03 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 635.36 per share
+Buying one share of Dorian LPG Ltd. valued at $ 645.83 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 715.50 per share
+Buying one share of Oceaneering International Inc. valued at $ 784.67 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 891.04 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 895.21 per share
+Buying one share of TAL Education Group valued at $ 932.68 per share
+Buying one share of First Potomac Realty Trust valued at $ 1040.18 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1043.65 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1090.55 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1097.25 per share
+Buying one share of Xencor Inc. valued at $ 1307.15 per share
+Buying one share of Digital Turbine Inc. valued at $ 1320.78 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1426.51 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1447.95 per share
+Buying one share of EPR Properties valued at $ 1493.41 per share
+Buying one share of Ennis Inc. valued at $ 1501.64 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1577.47 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1781.30 per share
+Buying one share of CECO Environmental Corp. valued at $ 1795.34 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1813.88 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1824.27 per share
+Buying one share of Edison International valued at $ 1985.93 per share
+Buying one share of Wells Fargo & Company valued at $ 1996.35 per share
+
+Profit made today $ -1669.06
+
+Day 25 Current balance $ 42793.33
+
+Buying one share of Tower Semiconductor Ltd. valued at $ 521.12 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 730.99 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 830.29 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 939.29 per share
+Buying one share of Digital Turbine Inc. valued at $ 954.54 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 985.75 per share
+Buying one share of Edison International valued at $ 1067.45 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1090.92 per share
+Buying one share of Wells Fargo & Company valued at $ 1091.66 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1131.92 per share
+Buying one share of CECO Environmental Corp. valued at $ 1163.69 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1182.87 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1195.48 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1212.00 per share
+Buying one share of Xencor Inc. valued at $ 1287.29 per share
+Buying one share of Ennis Inc. valued at $ 1375.97 per share
+Buying one share of Oceaneering International Inc. valued at $ 1525.08 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1569.97 per share
+Buying one share of TAL Education Group valued at $ 1604.17 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1631.18 per share
+Buying one share of EPR Properties valued at $ 1634.27 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1714.72 per share
+Buying one share of First Potomac Realty Trust valued at $ 1721.66 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1824.53 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1879.98 per share
+
+Profit made today $ -3529.05
+
+Day 26 Current balance $ 39264.28
+
+Buying one share of Timberland Bancorp Inc. valued at $ 506.07 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 629.36 per share
+Buying one share of CECO Environmental Corp. valued at $ 667.45 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 679.03 per share
+Buying one share of Edison International valued at $ 688.67 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 752.18 per share
+Buying one share of Ennis Inc. valued at $ 765.75 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 791.20 per share
+Buying one share of EPR Properties valued at $ 805.81 per share
+Buying one share of First Potomac Realty Trust valued at $ 823.27 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 958.39 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 966.86 per share
+Buying one share of Xencor Inc. valued at $ 998.14 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1227.87 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1320.99 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1365.15 per share
+Buying one share of Digital Turbine Inc. valued at $ 1425.11 per share
+Buying one share of TAL Education Group valued at $ 1488.93 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1515.88 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1549.85 per share
+Buying one share of Oceaneering International Inc. valued at $ 1566.27 per share
+Buying one share of Wells Fargo & Company valued at $ 1570.48 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1607.88 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1611.22 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1747.57 per share
+
+Profit made today $ 2278.32
+
+Day 27 Current balance $ 41542.60
+
+Buying one share of Adaptimmune Therapeutics plc valued at $ 604.69 per share
+Buying one share of Oceaneering International Inc. valued at $ 608.68 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 637.43 per share
+Buying one share of TAL Education Group valued at $ 703.00 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 781.77 per share
+Buying one share of Ennis Inc. valued at $ 806.19 per share
+Buying one share of Edison International valued at $ 960.66 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 969.17 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1126.27 per share
+Buying one share of Xencor Inc. valued at $ 1189.00 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1229.48 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1247.64 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1259.94 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1401.42 per share
+Buying one share of Digital Turbine Inc. valued at $ 1425.30 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1448.56 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1522.12 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1658.57 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1683.01 per share
+Buying one share of First Potomac Realty Trust valued at $ 1684.27 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1759.10 per share
+Buying one share of Wells Fargo & Company valued at $ 1861.53 per share
+Buying one share of EPR Properties valued at $ 1928.71 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1933.36 per share
+Buying one share of CECO Environmental Corp. valued at $ 1972.14 per share
+
+Profit made today $ -899.03
+
+Day 28 Current balance $ 40643.57
+
+Buying one share of Adaptimmune Therapeutics plc valued at $ 564.03 per share
+Buying one share of Xencor Inc. valued at $ 606.63 per share
+Buying one share of TAL Education Group valued at $ 614.13 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 618.73 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 645.50 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 993.67 per share
+Buying one share of Oceaneering International Inc. valued at $ 1145.70 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1191.30 per share
+Buying one share of Digital Turbine Inc. valued at $ 1287.42 per share
+Buying one share of Wells Fargo & Company valued at $ 1311.07 per share
+Buying one share of Edison International valued at $ 1330.44 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1341.32 per share
+Buying one share of EPR Properties valued at $ 1348.36 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1355.69 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1377.20 per share
+Buying one share of Ennis Inc. valued at $ 1435.88 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1460.28 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1480.86 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1487.07 per share
+Buying one share of First Potomac Realty Trust valued at $ 1556.14 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1756.31 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1879.82 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1935.66 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1978.63 per share
+Buying one share of CECO Environmental Corp. valued at $ 1984.90 per share
+
+Profit made today $ -1887.83
+
+Day 29 Current balance $ 38755.74
+
+Buying one share of Altra Industrial Motion Corp. valued at $ 508.97 per share
+Buying one share of Ennis Inc. valued at $ 660.80 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 661.78 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 714.31 per share
+Buying one share of EPR Properties valued at $ 716.76 per share
+Buying one share of CECO Environmental Corp. valued at $ 719.77 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 759.06 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 816.16 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 968.66 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1049.43 per share
+Buying one share of Xencor Inc. valued at $ 1058.88 per share
+Buying one share of Oceaneering International Inc. valued at $ 1075.07 per share
+Buying one share of First Potomac Realty Trust valued at $ 1140.93 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1175.24 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1392.67 per share
+Buying one share of Edison International valued at $ 1428.11 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1624.29 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1667.99 per share
+Buying one share of Digital Turbine Inc. valued at $ 1688.47 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1726.56 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1753.24 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1866.11 per share
+Buying one share of Wells Fargo & Company valued at $ 1869.18 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1897.34 per share
+Buying one share of TAL Education Group valued at $ 1912.95 per share
+
+Profit made today $ 21.99
+
+Day 30 Current balance $ 38777.73
+
+Buying one share of Timberland Bancorp Inc. valued at $ 614.06 per share
+Buying one share of Dorian LPG Ltd. valued at $ 662.70 per share
+Buying one share of TAL Education Group valued at $ 726.98 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 786.45 per share
+Buying one share of Wells Fargo & Company valued at $ 821.58 per share
+Buying one share of Ennis Inc. valued at $ 842.06 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 848.84 per share
+Buying one share of First Potomac Realty Trust valued at $ 876.83 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 963.52 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 995.64 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1113.62 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1137.33 per share
+Buying one share of CECO Environmental Corp. valued at $ 1181.00 per share
+Buying one share of Oceaneering International Inc. valued at $ 1233.68 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1260.28 per share
+Buying one share of Xencor Inc. valued at $ 1260.46 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1444.53 per share
+Buying one share of Digital Turbine Inc. valued at $ 1461.36 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1484.68 per share
+Buying one share of EPR Properties valued at $ 1502.29 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1693.81 per share
+Buying one share of Edison International valued at $ 1767.63 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1813.98 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1956.91 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1983.48 per share
+
+Profit made today $ -62.60
+
+Day 31 Current balance $ 38715.13
+
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 502.43 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 510.27 per share
+Buying one share of TAL Education Group valued at $ 640.00 per share
+Buying one share of Xencor Inc. valued at $ 654.99 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 676.30 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 736.24 per share
+Buying one share of Oceaneering International Inc. valued at $ 762.12 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 891.89 per share
+Buying one share of First Potomac Realty Trust valued at $ 939.21 per share
+Buying one share of Wells Fargo & Company valued at $ 977.02 per share
+Buying one share of Ennis Inc. valued at $ 1004.50 per share
+Buying one share of EPR Properties valued at $ 1020.48 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1220.29 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1376.27 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1429.67 per share
+Buying one share of Edison International valued at $ 1592.99 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1598.22 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1656.92 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1669.79 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1777.82 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1797.74 per share
+Buying one share of CECO Environmental Corp. valued at $ 1822.18 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1839.02 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1857.28 per share
+Buying one share of Digital Turbine Inc. valued at $ 1987.85 per share
+
+Profit made today $ 2370.43
+
+Day 32 Current balance $ 41085.56
+
+Buying one share of Pacific Special Acquisition Corp. valued at $ 620.69 per share
+Buying one share of CECO Environmental Corp. valued at $ 653.67 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 687.15 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 847.29 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 849.14 per share
+Buying one share of Wells Fargo & Company valued at $ 855.65 per share
+Buying one share of EPR Properties valued at $ 925.48 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 926.73 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 932.95 per share
+Buying one share of Dorian LPG Ltd. valued at $ 941.87 per share
+Buying one share of Xencor Inc. valued at $ 976.88 per share
+Buying one share of First Potomac Realty Trust valued at $ 1006.68 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1042.78 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1100.33 per share
+Buying one share of TAL Education Group valued at $ 1135.59 per share
+Buying one share of Oceaneering International Inc. valued at $ 1164.34 per share
+Buying one share of Edison International valued at $ 1584.80 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1712.43 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1718.24 per share
+Buying one share of Ennis Inc. valued at $ 1728.03 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1769.58 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1772.38 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1832.27 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1871.87 per share
+Buying one share of Digital Turbine Inc. valued at $ 1908.03 per share
+
+Profit made today $ 2245.57
+
+Day 33 Current balance $ 43331.13
+
+Buying one share of Orchid Island Capital Inc. valued at $ 505.66 per share
+Buying one share of EPR Properties valued at $ 590.74 per share
+Buying one share of Xencor Inc. valued at $ 754.72 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1036.84 per share
+Buying one share of Digital Turbine Inc. valued at $ 1089.88 per share
+Buying one share of TAL Education Group valued at $ 1097.68 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1117.98 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1165.36 per share
+Buying one share of CECO Environmental Corp. valued at $ 1259.22 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1274.57 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1339.12 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1384.42 per share
+Buying one share of Oceaneering International Inc. valued at $ 1394.81 per share
+Buying one share of Wells Fargo & Company valued at $ 1477.60 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1650.76 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1709.40 per share
+Buying one share of First Potomac Realty Trust valued at $ 1711.81 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1762.91 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1798.57 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1818.04 per share
+Buying one share of Ennis Inc. valued at $ 1829.85 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1910.18 per share
+Buying one share of Edison International valued at $ 1946.21 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1956.46 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1966.48 per share
+
+Profit made today $ -5101.34
+
+Day 34 Current balance $ 38229.79
+
+Buying one share of Xencor Inc. valued at $ 558.85 per share
+Buying one share of Edison International valued at $ 587.58 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 822.77 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 845.89 per share
+Buying one share of Ennis Inc. valued at $ 900.61 per share
+Buying one share of EPR Properties valued at $ 921.02 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 927.12 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 979.50 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1073.26 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1096.35 per share
+Buying one share of Oceaneering International Inc. valued at $ 1128.26 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1295.96 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1324.55 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1448.30 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1510.89 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1564.05 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1597.83 per share
+Buying one share of Wells Fargo & Company valued at $ 1668.39 per share
+Buying one share of First Potomac Realty Trust valued at $ 1680.86 per share
+Buying one share of TAL Education Group valued at $ 1719.44 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1722.87 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1781.08 per share
+Buying one share of Digital Turbine Inc. valued at $ 1781.49 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1873.76 per share
+Buying one share of CECO Environmental Corp. valued at $ 1876.54 per share
+
+Profit made today $ -3468.05
+
+Day 35 Current balance $ 34761.74
+
+Buying one share of Dorian LPG Ltd. valued at $ 510.20 per share
+Buying one share of Digital Turbine Inc. valued at $ 521.62 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 572.07 per share
+Buying one share of Ennis Inc. valued at $ 686.05 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 882.39 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1122.66 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1156.98 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1288.81 per share
+Buying one share of EPR Properties valued at $ 1297.69 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1327.98 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1337.44 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1358.31 per share
+Buying one share of TAL Education Group valued at $ 1387.14 per share
+Buying one share of Edison International valued at $ 1458.41 per share
+Buying one share of First Potomac Realty Trust valued at $ 1483.55 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1510.35 per share
+Buying one share of Wells Fargo & Company valued at $ 1541.72 per share
+Buying one share of Oceaneering International Inc. valued at $ 1574.62 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1583.20 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1611.09 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1749.98 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1797.07 per share
+Buying one share of Xencor Inc. valued at $ 1807.37 per share
+Buying one share of CECO Environmental Corp. valued at $ 1957.97 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1970.06 per share
+
+Profit made today $ -1781.80
+
+Day 36 Current balance $ 32979.94
+
+Buying one share of ReWalk Robotics Ltd valued at $ 615.83 per share
+Buying one share of Dorian LPG Ltd. valued at $ 650.55 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 690.96 per share
+Buying one share of Xencor Inc. valued at $ 764.20 per share
+Buying one share of Wells Fargo & Company valued at $ 804.23 per share
+Buying one share of EPR Properties valued at $ 886.28 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 900.27 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1160.31 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1234.53 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1236.92 per share
+Buying one share of Ennis Inc. valued at $ 1304.80 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1391.79 per share
+Buying one share of Digital Turbine Inc. valued at $ 1405.92 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1415.37 per share
+Buying one share of First Potomac Realty Trust valued at $ 1447.22 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1534.79 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1552.57 per share
+Buying one share of CECO Environmental Corp. valued at $ 1575.67 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1607.57 per share
+Buying one share of Oceaneering International Inc. valued at $ 1609.20 per share
+Buying one share of Edison International valued at $ 1627.47 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1663.06 per share
+Buying one share of TAL Education Group valued at $ 1673.41 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1805.55 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1807.64 per share
+
+Profit made today $ 281.46
+
+Day 37 Current balance $ 33261.40
+
+Buying one share of Timberland Bancorp Inc. valued at $ 555.85 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 576.20 per share
+Buying one share of Ennis Inc. valued at $ 620.43 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 655.18 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 662.78 per share
+Buying one share of Wells Fargo & Company valued at $ 726.20 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 745.10 per share
+Buying one share of Xencor Inc. valued at $ 986.41 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1179.50 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1184.39 per share
+Buying one share of Edison International valued at $ 1222.38 per share
+Buying one share of Oceaneering International Inc. valued at $ 1282.98 per share
+Buying one share of CECO Environmental Corp. valued at $ 1317.55 per share
+Buying one share of EPR Properties valued at $ 1373.47 per share
+Buying one share of First Potomac Realty Trust valued at $ 1477.40 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1605.60 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1628.88 per share
+Buying one share of Digital Turbine Inc. valued at $ 1660.82 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1660.88 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1783.46 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1800.52 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1889.10 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1913.50 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1964.01 per share
+Buying one share of TAL Education Group valued at $ 1989.23 per share
+
+Profit made today $ 3000.95
+
+Day 38 Current balance $ 36262.35
+
+Buying one share of Xencor Inc. valued at $ 643.19 per share
+Buying one share of TAL Education Group valued at $ 910.62 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 934.02 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1049.81 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1173.71 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1177.17 per share
+Buying one share of First Potomac Realty Trust valued at $ 1225.78 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1271.57 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1308.10 per share
+Buying one share of CECO Environmental Corp. valued at $ 1329.00 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1387.41 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1389.21 per share
+Buying one share of Wells Fargo & Company valued at $ 1451.36 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1475.25 per share
+Buying one share of Edison International valued at $ 1572.12 per share
+Buying one share of EPR Properties valued at $ 1615.14 per share
+Buying one share of Digital Turbine Inc. valued at $ 1767.96 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1816.55 per share
+Buying one share of Ennis Inc. valued at $ 1817.36 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1868.23 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1870.18 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1917.23 per share
+Buying one share of Oceaneering International Inc. valued at $ 1932.48 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1940.40 per share
+
+Profit made today $ -3696.35
+
+Day 39 Current balance $ 32566.00
+
+Buying one share of Dorian LPG Ltd. valued at $ 595.09 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 595.38 per share
+Buying one share of Oceaneering International Inc. valued at $ 618.40 per share
+Buying one share of First Potomac Realty Trust valued at $ 673.90 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 792.93 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 811.85 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 856.79 per share
+Buying one share of TAL Education Group valued at $ 880.65 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 895.50 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 903.47 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 906.60 per share
+Buying one share of Digital Turbine Inc. valued at $ 1005.76 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1044.88 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1218.85 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1244.26 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1281.12 per share
+Buying one share of Wells Fargo & Company valued at $ 1493.64 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1522.10 per share
+Buying one share of EPR Properties valued at $ 1525.98 per share
+Buying one share of Ennis Inc. valued at $ 1735.24 per share
+Buying one share of Edison International valued at $ 1822.85 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1846.02 per share
+Buying one share of Xencor Inc. valued at $ 1922.62 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1936.33 per share
+Buying one share of CECO Environmental Corp. valued at $ 1988.31 per share
+
+Profit made today $ 3491.93
+
+Day 40 Current balance $ 36057.93
+
+Buying one share of EPR Properties valued at $ 706.60 per share
+Buying one share of Oceaneering International Inc. valued at $ 808.20 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 866.34 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 876.14 per share
+Buying one share of Dorian LPG Ltd. valued at $ 878.43 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 950.22 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1008.86 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1061.27 per share
+Buying one share of Xencor Inc. valued at $ 1107.23 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1267.15 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1349.78 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1368.33 per share
+Buying one share of CECO Environmental Corp. valued at $ 1379.34 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1408.16 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1443.83 per share
+Buying one share of First Potomac Realty Trust valued at $ 1539.79 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1543.21 per share
+Buying one share of Ennis Inc. valued at $ 1547.58 per share
+Buying one share of Digital Turbine Inc. valued at $ 1568.52 per share
+Buying one share of Wells Fargo & Company valued at $ 1624.58 per share
+Buying one share of TAL Education Group valued at $ 1638.69 per share
+Buying one share of Edison International valued at $ 1681.53 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1749.03 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1797.29 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1973.81 per share
+
+Profit made today $ 820.63
+
+Day 41 Current balance $ 36878.56
+
+Buying one share of TAL Education Group valued at $ 507.40 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 615.31 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 628.97 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 656.94 per share
+Buying one share of Edison International valued at $ 752.24 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 812.36 per share
+Buying one share of Wells Fargo & Company valued at $ 841.97 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 845.02 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 931.83 per share
+Buying one share of Ennis Inc. valued at $ 974.39 per share
+Buying one share of Dorian LPG Ltd. valued at $ 980.19 per share
+Buying one share of Digital Turbine Inc. valued at $ 1058.95 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1115.29 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1143.50 per share
+Buying one share of Xencor Inc. valued at $ 1262.96 per share
+Buying one share of Oceaneering International Inc. valued at $ 1362.15 per share
+Buying one share of CECO Environmental Corp. valued at $ 1430.01 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1482.46 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1524.33 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1534.68 per share
+Buying one share of EPR Properties valued at $ 1645.07 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1773.92 per share
+Buying one share of First Potomac Realty Trust valued at $ 1886.48 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1904.80 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1953.89 per share
+
+Profit made today $ 3536.88
+
+Day 42 Current balance $ 40415.44
+
+Buying one share of Orchid Island Capital Inc. valued at $ 501.37 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 575.90 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 635.23 per share
+Buying one share of EPR Properties valued at $ 672.25 per share
+Buying one share of First Potomac Realty Trust valued at $ 747.70 per share
+Buying one share of Xencor Inc. valued at $ 768.69 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 820.76 per share
+Buying one share of Wells Fargo & Company valued at $ 993.18 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1041.68 per share
+Buying one share of CECO Environmental Corp. valued at $ 1118.25 per share
+Buying one share of Oceaneering International Inc. valued at $ 1134.36 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1232.90 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1257.17 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1262.52 per share
+Buying one share of TAL Education Group valued at $ 1313.87 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1347.78 per share
+Buying one share of Ennis Inc. valued at $ 1407.30 per share
+Buying one share of Edison International valued at $ 1437.12 per share
+Buying one share of Digital Turbine Inc. valued at $ 1580.36 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1608.60 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1664.65 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1669.75 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1769.88 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1773.86 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1878.00 per share
+
+Profit made today $ 332.34
+
+Day 43 Current balance $ 40747.78
+
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 538.85 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 589.63 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 594.80 per share
+Buying one share of Dorian LPG Ltd. valued at $ 653.97 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 707.46 per share
+Buying one share of EPR Properties valued at $ 739.59 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 772.02 per share
+Buying one share of Xencor Inc. valued at $ 806.18 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 815.46 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 892.65 per share
+Buying one share of Ennis Inc. valued at $ 1070.43 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1208.11 per share
+Buying one share of Edison International valued at $ 1210.19 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1259.47 per share
+Buying one share of Digital Turbine Inc. valued at $ 1397.30 per share
+Buying one share of CECO Environmental Corp. valued at $ 1408.22 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1437.81 per share
+Buying one share of Wells Fargo & Company valued at $ 1498.44 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1614.58 per share
+Buying one share of TAL Education Group valued at $ 1650.46 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1729.49 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1790.05 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1960.81 per share
+Buying one share of Oceaneering International Inc. valued at $ 1984.22 per share
+Buying one share of First Potomac Realty Trust valued at $ 1999.94 per share
+
+Profit made today $ 15.62
+
+Day 44 Current balance $ 40763.40
+
+Buying one share of TAL Education Group valued at $ 501.12 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 639.71 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 643.77 per share
+Buying one share of Edison International valued at $ 877.43 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 880.82 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 894.98 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 974.24 per share
+Buying one share of Ennis Inc. valued at $ 985.14 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1041.49 per share
+Buying one share of CECO Environmental Corp. valued at $ 1069.93 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1086.54 per share
+Buying one share of EPR Properties valued at $ 1267.72 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1291.74 per share
+Buying one share of Wells Fargo & Company valued at $ 1306.21 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1316.07 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1369.19 per share
+Buying one share of Digital Turbine Inc. valued at $ 1503.94 per share
+Buying one share of Xencor Inc. valued at $ 1514.00 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1526.51 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1604.88 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1777.21 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1820.14 per share
+Buying one share of First Potomac Realty Trust valued at $ 1869.87 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1956.26 per share
+Buying one share of Oceaneering International Inc. valued at $ 1971.75 per share
+
+Profit made today $ -1669.97
+
+Day 45 Current balance $ 39093.43
+
+Buying one share of Dorian LPG Ltd. valued at $ 560.61 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 569.54 per share
+Buying one share of Ennis Inc. valued at $ 622.12 per share
+Buying one share of Digital Turbine Inc. valued at $ 631.69 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 699.97 per share
+Buying one share of CECO Environmental Corp. valued at $ 786.99 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 809.15 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 847.98 per share
+Buying one share of Xencor Inc. valued at $ 902.38 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 904.65 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 993.75 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1139.09 per share
+Buying one share of Oceaneering International Inc. valued at $ 1163.13 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1166.26 per share
+Buying one share of Edison International valued at $ 1217.68 per share
+Buying one share of First Potomac Realty Trust valued at $ 1359.54 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1514.78 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1516.71 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1552.05 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1744.59 per share
+Buying one share of Wells Fargo & Company valued at $ 1774.02 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1799.04 per share
+Buying one share of EPR Properties valued at $ 1839.41 per share
+Buying one share of TAL Education Group valued at $ 1856.79 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1942.23 per share
+
+Profit made today $ 301.46
+
+Day 46 Current balance $ 39394.89
+
+Buying one share of Edison International valued at $ 563.06 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 710.46 per share
+Buying one share of Oceaneering International Inc. valued at $ 718.47 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 746.50 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 769.52 per share
+Buying one share of TAL Education Group valued at $ 865.26 per share
+Buying one share of Digital Turbine Inc. valued at $ 879.88 per share
+Buying one share of EPR Properties valued at $ 926.70 per share
+Buying one share of Dorian LPG Ltd. valued at $ 928.85 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 954.06 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 987.02 per share
+Buying one share of CECO Environmental Corp. valued at $ 989.94 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1024.77 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1143.56 per share
+Buying one share of Ennis Inc. valued at $ 1163.07 per share
+Buying one share of Wells Fargo & Company valued at $ 1176.75 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1192.83 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1215.40 per share
+Buying one share of First Potomac Realty Trust valued at $ 1389.91 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1527.74 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1559.68 per share
+Buying one share of Xencor Inc. valued at $ 1694.52 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1772.11 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1901.15 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1908.04 per share
+
+Profit made today $ -1215.13
+
+Day 47 Current balance $ 38179.76
+
+Buying one share of TAL Education Group valued at $ 532.84 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 577.86 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 644.85 per share
+Buying one share of Wells Fargo & Company valued at $ 654.96 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 682.04 per share
+Buying one share of Oceaneering International Inc. valued at $ 821.16 per share
+Buying one share of First Potomac Realty Trust valued at $ 839.89 per share
+Buying one share of Ennis Inc. valued at $ 998.80 per share
+Buying one share of EPR Properties valued at $ 1014.51 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1074.41 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1122.21 per share
+Buying one share of CECO Environmental Corp. valued at $ 1180.15 per share
+Buying one share of Xencor Inc. valued at $ 1265.57 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1335.81 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1403.76 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1458.64 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1535.80 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 1593.38 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1628.70 per share
+Buying one share of Digital Turbine Inc. valued at $ 1641.03 per share
+Buying one share of Edison International valued at $ 1771.22 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1794.95 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1877.41 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1885.95 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1920.91 per share
+
+Profit made today $ 1582.38
+
+Day 48 Current balance $ 39762.14
+
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 661.96 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 894.37 per share
+Buying one share of Wells Fargo & Company valued at $ 937.79 per share
+Buying one share of Digital Turbine Inc. valued at $ 1024.57 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1095.65 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1099.15 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1114.08 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1165.41 per share
+Buying one share of Xencor Inc. valued at $ 1185.31 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1216.93 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1230.84 per share
+Buying one share of EPR Properties valued at $ 1271.40 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1325.36 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1346.48 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1470.62 per share
+Buying one share of Edison International valued at $ 1561.07 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1593.56 per share
+Buying one share of TAL Education Group valued at $ 1596.16 per share
+Buying one share of First Potomac Realty Trust valued at $ 1603.63 per share
+Buying one share of Oceaneering International Inc. valued at $ 1636.62 per share
+Buying one share of CECO Environmental Corp. valued at $ 1735.98 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1810.77 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1868.36 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1902.54 per share
+Buying one share of Ennis Inc. valued at $ 1988.77 per share
+
+Profit made today $ -2570.43
+
+Day 49 Current balance $ 37191.71
+
+Buying one share of First Potomac Realty Trust valued at $ 597.05 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 711.60 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 718.49 per share
+Buying one share of Ennis Inc. valued at $ 724.22 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 835.30 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 957.79 per share
+Buying one share of Digital Turbine Inc. valued at $ 992.38 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1103.80 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 1122.46 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1158.65 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1183.12 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 1234.18 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1239.01 per share
+Buying one share of Oceaneering International Inc. valued at $ 1243.56 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1255.86 per share
+Buying one share of Xencor Inc. valued at $ 1287.93 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 1364.28 per share
+Buying one share of EPR Properties valued at $ 1404.45 per share
+Buying one share of Edison International valued at $ 1544.72 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 1629.88 per share
+Buying one share of Wells Fargo & Company valued at $ 1669.33 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1690.43 per share
+Buying one share of CECO Environmental Corp. valued at $ 1705.59 per share
+Buying one share of TAL Education Group valued at $ 1877.90 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1986.98 per share
+
+Profit made today $ 4947.15
+
+Day 50 Current balance $ 42138.86
+
+Buying one share of CECO Environmental Corp. valued at $ 511.71 per share
+Buying one share of Xencor Inc. valued at $ 718.64 per share
+Buying one share of First Potomac Realty Trust valued at $ 798.33 per share
+Buying one share of ReWalk Robotics Ltd valued at $ 829.62 per share
+Buying one share of Ennis Inc. valued at $ 853.34 per share
+Buying one share of TAL Education Group valued at $ 859.39 per share
+Buying one share of Orchid Island Capital Inc. valued at $ 897.68 per share
+Buying one share of Tower Semiconductor Ltd. valued at $ 906.80 per share
+Buying one share of Assured Guaranty Ltd. valued at $ 918.57 per share
+Buying one share of Oceaneering International Inc. valued at $ 956.69 per share
+Buying one share of Pacific Special Acquisition Corp. valued at $ 997.48 per share
+Buying one share of Timberland Bancorp Inc. valued at $ 1147.75 per share
+Buying one share of Digital Turbine Inc. valued at $ 1203.24 per share
+Buying one share of Dorian LPG Ltd. valued at $ 1395.14 per share
+Buying one share of Edison International valued at $ 1449.17 per share
+Buying one share of Altra Industrial Motion Corp. valued at $ 1507.57 per share
+Buying one share of Quinpario Acquisition Corp. valued at $ 1530.99 per share
+Buying one share of ﻿Middlefield Banc Corp. valued at $ 1584.60 per share
+Buying one share of Anheuser-Busch Inbev SA valued at $ 1660.71 per share
+Buying one share of Adaptimmune Therapeutics plc valued at $ 1667.82 per share
+Buying one share of P.A.M. Transportation Services Inc. valued at $ 1705.21 per share
+Buying one share of Wells Fargo & Company valued at $ 1737.39 per share
+Buying one share of EPR Properties valued at $ 1824.27 per share
+Buying one share of Eaton Vance Tax Advantaged Dividend Income Fund valued at $ 1846.79 per share
+Buying one share of PNM Resources Inc. (Holding Co.) valued at $ 1994.66 per share
+
+Profit made today $ -522.04
+
+Balance after 50 days $ 41616.82
+Amount in dividends $ 537.71

@@ -1,0 +1,18 @@
+$ ./a.out
+Enter filename: input01.txt 
+Test case 1
+SQF Problem
+$ ./a.out
+Enter filename: input02.txt 
+Test case 1
+Math
+Physics
+CompSci
+$ ./a.out
+Enter filename: input03.txt 
+Test case 1
+SQF Problem
+Test case 2
+Geometrical
+Test case 3
+SQF Problem

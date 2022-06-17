@@ -1,0 +1,11 @@
+set logging overwrite
+set logging file answers.txt
+set logging on
+echo Pizzas Required Per Department: \n  
+x/10uh &total
+echo Total Pizzas Required:  
+x/uh &sum
+echo Average Pizzas Required:  
+x/uh &average
+set logging off
+

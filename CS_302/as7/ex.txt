@@ -1,0 +1,24 @@
+$ ./a.out
+Enter filename: input01.txt
+Case 1 results: 
+Rhinoceros 
+$ ./a.out
+Enter filename: input02.txt 
+Case 1 results: 
+Tie
+$ ./a.out
+Enter filename: input03.txt
+Case 1 results: 
+Green Party 
+$ ./a.out
+Enter filename: input04.txt 
+Case 1 results: 
+Alliance Party
+$ ./a.out
+Enter filename: input05.txt
+Case 1 results: 
+Libertarian Party 
+Case 2 results: 
+Republican Party 
+Case 3 results: 
+independent

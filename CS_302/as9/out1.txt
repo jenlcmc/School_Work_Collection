@@ -1,0 +1,45 @@
+Enter file: fam01.txt
+
+Relative Name: five
+List of ancestors
+one
+three
+zero
+
+Relative Name: four
+List of ancestors
+two
+zero
+
+Relative Name: one
+List of ancestors
+None
+
+Relative Name: seven
+List of ancestors
+one
+three
+two
+zero
+
+Relative Name: six
+List of ancestors
+four
+one
+three
+two
+zero
+
+Relative Name: three
+List of ancestors
+one
+zero
+
+Relative Name: two
+List of ancestors
+None
+
+Relative Name: zero
+List of ancestors
+None
+

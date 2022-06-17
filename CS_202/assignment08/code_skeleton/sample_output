@@ -1,0 +1,41 @@
+Printing the archipelago of size 5*5 of red islands:
+r x x r r 
+r r x r r 
+x r r r r 
+x x x r r 
+r x r x x 
+Number of islands in this archipelago:3
+Painting the island starting at (0,0) to green
+Printing the repainted archipelago:
+g x x g g 
+g g x g g 
+x g g g g 
+x x x g g 
+r x r x x 
+
+
+Printing the archipelago of size 3*3:
+x x x 
+x x x 
+x x x 
+Number of islands is:0
+
+
+Printing the archipelago:
+w x x x x 
+x w w x x 
+x x x w w 
+w w w x x 
+Number of islands is:4
+Painting the island starting at (4,0) to orange
+Printing the repainted archipelago:
+w x x x x 
+x w w x x 
+x x x w w 
+o o o x x 
+
+
+Printing the archipelago of size 2*2 with yellow island:
+x x 
+y x 
+Number of islands is:1

@@ -1,0 +1,110 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <fstream>
+#include <vector>
+#include <list>
+#include <algorithm>
+#include <unordered_map>
+
+using namespace std;
+
+// DFS traversal, to be able to gather all the ancestors of each node in the graph (so you will need to run
+// DFS multiple times). The start node(s) will be the node(s) that have no ancestors, and from those node(s)
+// you traverse the graph until you find your target relative and incrementally build your list of ancestors
+
+bool ancestors(string current, string searchName, unordered_map<string, list<string>> adjList,
+               unordered_map<string, bool> &visited, unordered_map<string, bool> &listOfAncrstors)
+{
+    if (current == searchName)
+    {
+        return true;
+    }
+    visited[current] = true;
+    for (auto &adj : adjList[current])
+    {
+        if (!visited[adj])
+        {
+            if (ancestors(adj, searchName, adjList, visited, listOfAncrstors))
+            {
+                listOfAncrstors[current] = true;
+                return true;
+            }
+        }
+    }
+    return false;
+}
+
+int main()
+{
+    string file;
+    cout << "Enter file: ";
+    cin >> file;
+
+    ifstream in(file);
+
+    string line;
+    string delim = " -> ";
+    size_t pos = 0;
+    vector<string> inputs;
+    vector<string> from;
+    vector<string> to;
+
+    while (getline(in, line))
+    {
+        inputs.push_back(line);
+    }
+
+    for (int i = 0; i < inputs.size(); i++)
+    {
+        while ((pos = inputs[i].find(delim)) != string::npos)
+        {
+            from.push_back(inputs[i].substr(0, pos));
+            to.push_back(inputs[i].substr(pos + delim.length()));
+            inputs[i].erase(0, pos + delim.length());
+        }
+    }
+
+    unordered_map<string, list<string>> adjList;
+
+    for (int i = 0; i < from.size(); ++i)
+    {
+        adjList[from[i]].push_back(to[i]);
+    }
+
+    inputs.clear();
+
+    inputs.resize(from.size() + to.size());
+    merge(from.begin(), from.end(), to.begin(), to.end(), inputs.begin());
+
+    sort(inputs.begin(), inputs.end());
+    inputs.erase(unique(inputs.begin(), inputs.end()), inputs.end());
+
+    unordered_map<string, bool> visited;
+    unordered_map<string, bool> listOfAncrstors;
+
+    vector<string> nums{"zero", "one", "two", "three", "four", "five", "six", "seven"};
+
+    // output a sorted list of all ancestors
+    // for each person (if a person has no ancestors then output "None" without the quotes).
+    for (int i = 0; i < nums.size(); i++)
+    {
+        for (int j = 0; j < inputs.size(); j++)
+        {
+            if (ancestors(nums[i], inputs[j], adjList, visited, listOfAncrstors))
+            {
+                for (auto &anc : listOfAncrstors)
+                {
+                    cout << anc.first << " ";
+                }
+                cout << endl;
+            }
+            else
+            {
+                cout << "None" << endl;
+            }
+        }
+    }
+
+    return 0;
+}

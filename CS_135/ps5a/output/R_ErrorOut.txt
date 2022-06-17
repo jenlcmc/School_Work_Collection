@@ -1,0 +1,8 @@
+x1 y1 label
+3 1 error_check
+manDist eucDist label
+
+x1 y1 label
+3 1 
+manDist eucDist label
+

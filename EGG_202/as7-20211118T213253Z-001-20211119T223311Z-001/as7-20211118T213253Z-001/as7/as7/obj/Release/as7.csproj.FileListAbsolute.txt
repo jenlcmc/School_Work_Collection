@@ -1,0 +1,9 @@
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Release\as7.exe.config
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Release\as7.exe
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\bin\Release\as7.pdb
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.Form1.resources
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.Properties.Resources.resources
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.csproj.GenerateResource.cache
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.csproj.CoreCompileInputs.cache
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.exe
+C:\Users\tranu2\Downloads\as7-20211022T215216Z-001\as7\as7\obj\Release\as7.pdb

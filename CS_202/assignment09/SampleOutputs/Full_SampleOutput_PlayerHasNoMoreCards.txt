@@ -1,0 +1,768 @@
+[piotrj1@bobby test]$ valgrind ./a.out
+==12011== Memcheck, a memory error detector
+==12011== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==12011== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==12011== Command: ./a.out
+==12011==
+Would you like the print the game? Chances are it will go on forever....(Y/N)
+ : Y
+Here are the Decks (Players cannot see these):
+ - Player 1:
+-------------------------
+ |[H4]|  |[D3]|  |[HT]|  |[DJ]|
+ |[H5]|  |[D5]|  |[H3]|  |[DQ]|
+ |[DK]|  |[D4]|  |[H2]|  |[D6]|
+ |[HA]|  |[HJ]|  |[D8]|  |[D9]|
+ |[HK]|  |[H7]|  |[HQ]|  |[H9]|
+ |[H8]|  |[H6]|  |[D2]|  |[DT]|
+ |[DA]|  |[D7]|
+-------------------------
+ - Player 2:
+-------------------------
+ |[S6]|  |[SJ]|  |[S3]|  |[CA]|
+ |[ST]|  |[S7]|  |[C8]|  |[C4]|
+ |[C5]|  |[C6]|  |[S2]|  |[CJ]|
+ |[S8]|  |[SK]|  |[SA]|  |[C7]|
+ |[S4]|  |[SQ]|  |[C2]|  |[C9]|
+ |[CK]|  |[S5]|  |[CQ]|  |[S9]|
+ |[CT]|  |[C3]|
+-------------------------
+ |[H4]| vs. |[S6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D3]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H5]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[S7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[C8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[C4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[C5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[C6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[S2]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[D8]| vs. |[SA]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[D9]| vs. |[C7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H7]| vs. |[SQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[C9]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[DT]| vs. |[S9]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[DA]| vs. |[CT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[C3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[HA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[D4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[S2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C3]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C4]| vs. |[S6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[C8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S4]| vs. |[S8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[D3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[HJ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[DJ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[S7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CT]| vs. |[H4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H6]| vs. |[D8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S3]| vs. |[H5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C9]| vs. |[SQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C2]| vs. |[D6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CK]| vs. |[C6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S5]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DA]| vs. |[SK]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[H3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[H6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[C9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DA]| vs. |[HA]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S9]| vs. |[C4]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[S2]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[D8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CK]| vs. |[H9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[S5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[DT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[SQ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[S8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D3]| vs. |[S4]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[S6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[C5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[H5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[D4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[C9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[H5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[S2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[H3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[D3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[H4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[C6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D8]| vs. |[D9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D6]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DA]| vs. |[SA]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S3]| vs. |[S8]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[CT]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C4]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H6]| vs. |[D7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C2]| vs. |[DQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[D9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[D8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[H8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[ST]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[C3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[C9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[S6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[D9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[D7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[H7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[C4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[DQ]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S2]| vs. |[S8]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[D3]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H5]| vs. |[S9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[H6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S4]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[C8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[ST]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C9]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D8]| vs. |[DQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[SQ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[C6]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[DK]| vs. |[CJ]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[CT]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[C8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[S5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[S8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H7]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[HA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[S9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S3]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[S2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CT]| vs. |[H3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[C7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HK]| vs. |[HA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C3]| vs. |[D8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[D7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[C7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[D4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[S5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D6]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[ST]| vs. |[HT]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S7]| vs. |[CK]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[DJ]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[C5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[DQ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H6]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[S6]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[CJ]| vs. |[HT]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[S6]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[D7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SJ]| vs. |[D8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CT]| vs. |[H4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[S7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D3]| vs. |[C9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[S8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[C3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[H5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[C8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S2]| vs. |[H5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CJ]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S3]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[H7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[S6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[S9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S5]| vs. |[D3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C4]| vs. |[DT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[HT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[C9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H6]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S7]| vs. |[CA]| ...Player 2 Wins!
+ - 7 cards in the pile!
+ |[S5]| vs. |[S2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S4]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[HT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[CK]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[CT]| vs. |[DA]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[S8]| vs. |[H3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[H5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D6]| vs. |[S9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[H9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SJ]| vs. |[C6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[C5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[C4]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[D5]| vs. |[H2]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[C2]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[D9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D3]| vs. |[CT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[H7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[ST]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S2]| vs. |[S9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[D7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H7]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[SK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[H6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[DT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[D8]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S4]| vs. |[CJ]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[C9]| vs. |[S7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SA]| vs. |[HK]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[C8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C4]| vs. |[D3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[H3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[DJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[D9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[H8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C3]| vs. |[D6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[S6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[D4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S5]| vs. |[SK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C9]| vs. |[S8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H7]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SA]| vs. |[D7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[H5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[CJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[C5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C4]| vs. |[CT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H9]| vs. |[S9]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[H4]| vs. |[H6]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[DT]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[HT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D3]| vs. |[H4]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S3]| vs. |[H3]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S4]| vs. |[CA]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[HJ]| vs. |[CJ]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[DK]| vs. |[C8]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[D9]| vs. |[C7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H5]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C9]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[H9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[SQ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[CJ]| vs. |[S2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[H6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[DJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SA]| vs. |[C4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DA]| vs. |[S5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[SJ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C2]| vs. |[CT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HT]| vs. |[S9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SK]| vs. |[CA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[C3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[H9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C7]| vs. |[S3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[H5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[D8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[HQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[ST]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[SJ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DK]| vs. |[DJ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[H8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[D4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S2]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CJ]| vs. |[S8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S5]| vs. |[DQ]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S3]| vs. |[S7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H2]| vs. |[H3]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[D3]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S4]| vs. |[H4]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[C2]| vs. |[S3]| ...Player 2 Wins!
+ - 8 cards in the pile!
+ |[DT]| vs. |[D9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H5]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D6]| vs. |[SK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C3]| vs. |[C5]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C9]| vs. |[H9]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[C7]| vs. |[HQ]| ...Player 2 Wins!
+ - 10 cards in the pile!
+ |[S9]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DT]| vs. |[ST]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[SJ]| vs. |[C6]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[C8]| vs. |[D8]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[HJ]| vs. |[C7]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[DK]| vs. |[DA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D4]| vs. |[H7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[C2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[H5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H8]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H5]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[D5]| vs. |[H6]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CA]| vs. |[SQ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D9]| vs. |[D6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D2]| vs. |[C3]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C6]| vs. |[C4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DJ]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CJ]| vs. |[HT]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[HQ]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[S7]| vs. |[H4]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[D8]| vs. |[H9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S6]| vs. |[CT]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S4]| vs. |[SK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C2]| vs. |[D7]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[C9]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[C8]| vs. |[D7]| ...Player 1 Wins!
+ - 8 cards in the pile!
+ |[S8]| vs. |[H7]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HA]| vs. |[DA]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[C9]| vs. |[C3]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[H2]| vs. |[H9]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C5]| vs. |[D8]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S5]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[H3]| vs. |[D2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SJ]| vs. |[DJ]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[SQ]| vs. |[H6]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[C7]| vs. |[S6]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D7]| vs. |[DK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S2]| vs. |[S4]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CJ]| vs. |[CK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S9]| vs. |[D5]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[S8]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[HQ]| vs. |[H9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[D6]| vs. |[SA]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[CQ]| vs. |[S4]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[H4]| vs. |[H2]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[HJ]| vs. |[DK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[S7]| vs. |[D7]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[DQ]| vs. |[D8]| ...Player 1 Wins!
+ - 10 cards in the pile!
+ |[C6]| vs. |[HK]| ...Player 2 Wins!
+ - 2 cards in the pile!
+ |[C8]| vs. |[S8]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[H9]| vs. |[HJ]| ...Player 2 Wins!
+ - 6 cards in the pile!
+ |[CK]| vs. |[DK]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[CA]| vs. |[SA]| ...Tie! Turn 3 Cards Over and Go Again!
+ |[ST]| vs. |[S8]| ...Player 1 Wins!
+ - 15 cards in the pile!
+ |[DA]| vs. |[HJ]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[SQ]| vs. |[H9]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[DQ]| vs. |[C8]| ...Player 1 Wins!
+ - 2 cards in the pile!
+ |[C2]| vs. |[S2]| ...Tie! Turn 3 Cards Over and Go Again!
+***************************************************************************
+One player has dealt all their cards into the pile... We cannot continue...
+***************************************************************************
+ - 6 cards in the pile!
+*******************
+Show us your cards!
+*******************
+ - Player 1:
+-------------------------
+ |[SA]|  |[SK]|  |[SQ]|  |[SJ]|
+ |[ST]|  |[S9]|  |[S8]|  |[S4]|
+ |[S3]|  |[HA]|  |[HK]|  |[HQ]|
+ |[HJ]|  |[HT]|  |[H9]|  |[H8]|
+ |[H7]|  |[H6]|  |[H5]|  |[H4]|
+ |[H3]|  |[H2]|  |[DA]|  |[DK]|
+ |[DQ]|  |[DJ]|  |[D9]|  |[D8]|
+ |[D7]|  |[D6]|  |[D5]|  |[D4]|
+ |[D3]|  |[D2]|  |[CA]|  |[CK]|
+ |[CQ]|  |[CJ]|  |[CT]|  |[C9]|
+ |[C8]|  |[C7]|  |[C6]|  |[C5]|
+ |[C4]|  |[C3]|
+-------------------------
+
+ - Player 2:
+-------------------------
+
+-------------------------
+
+ - The Pile:
+-------------------------
+ |[S7]|  |[S6]|  |[S5]|  |[S2]|
+ |[DT]|  |[C2]|
+-------------------------
+==12011==
+==12011== HEAP SUMMARY:
+==12011==     in use at exit: 0 bytes in 0 blocks
+==12011==   total heap usage: 5,302 allocs, 5,302 frees, 121,264 bytes allocated
+==12011==
+==12011== All heap blocks were freed -- no leaks are possible
+==12011==
+==12011== For lists of detected and suppressed errors, rerun with: -s
+==12011== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+[piotrj1@bobby test]$

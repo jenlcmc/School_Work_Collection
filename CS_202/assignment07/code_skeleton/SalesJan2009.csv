@@ -1,0 +1,50 @@
+Transaction_Id ,Transaction_date ,Product  ,Price ,Payment_Type ,Name              ,City           ,State            ,Country
+1              ,1/2/09 6:17      ,Product1 ,1200  ,Mastercard   ,carolina          ,Basildon       ,England          ,United Kingdom
+2              ,1/2/09 4:53      ,Product3 ,2000  ,Visa         ,betina            ,Parkville      ,MO               ,United States
+3              ,1/2/09 13:08     ,Product2 ,700   ,Mastercard   ,federica e andrea ,Astoria        ,OR               ,United States
+4              ,1/3/09 14:44     ,Product1 ,1200  ,Visa         ,gouya             ,Echuca         ,Victoria         ,Australia
+5              ,1/4/09 12:56     ,Product2 ,700   ,Visa         ,gerd w            ,Cahaba Heights ,AL               ,United States
+6              ,1/4/09 13:19     ,Product3 ,2000  ,Visa         ,laurence          ,Mickleton      ,NJ               ,United States
+7              ,1/4/09 20:11     ,Product8 ,1550  ,Mastercard   ,fleur             ,Peoria         ,IL               ,United States
+8              ,1/2/09 20:09     ,Product1 ,1200  ,Mastercard   ,adam              ,Martin         ,TN               ,United States
+9              ,1/4/09 13:17     ,Product2 ,700   ,Mastercard   ,renee elisabeth   ,Tel Aviv       ,Tel Aviv         ,Israel
+10             ,1/4/09 14:11     ,Product3 ,2000  ,Visa         ,aidan             ,Chatou         ,Ile-de-France    ,France
+11             ,1/4/09 1:05      ,Product8 ,1550  ,Diners       ,leanne            ,Julianstown    ,Meath            ,Ireland
+12             ,1/5/09 11:37     ,Product6 ,900   ,Visa         ,janet             ,Ottawa         ,Ontario          ,Canada
+13             ,1/6/09 5:02      ,Product4 ,100   ,Diners       ,barbara           ,Hyderabad      ,Andhra Pradesh   ,India
+14             ,1/6/09 7:45      ,Product7 ,400   ,Visa         ,sabine            ,London         ,England          ,United Kingdom
+15             ,1/2/09 7:35      ,Product3 ,2000  ,Diners       ,hani              ,Salt Lake City ,UT               ,United States
+16             ,1/6/09 12:56     ,Product2 ,700   ,Visa         ,jeremy            ,Manchester     ,England          ,United Kingdom
+17             ,1/1/09 11:05     ,Product5 ,1800  ,Diners       ,janis             ,Ballynora      ,Cork             ,Ireland
+18             ,1/5/09 4:10      ,Product1 ,1200  ,Mastercard   ,nicola            ,Roodepoort     ,Gauteng          ,South Africa
+19             ,1/6/09 7:18      ,Product2 ,700   ,Visa         ,asuman            ,Chula Vista    ,CA               ,United States
+20             ,1/2/09 1:11      ,Product8 ,1550  ,Mastercard   ,lena              ,Kuopio         ,Ita-Suomen Laani ,Finland
+21             ,1/1/09 2:24      ,Product2 ,700   ,Visa         ,lisa              ,Sugar Land     ,TX               ,United States
+22             ,1/7/09 8:08      ,Product7 ,400   ,Diners       ,bryan kerrene     ,New York       ,NY               ,United States
+23             ,1/2/09 2:57      ,Product5 ,1800  ,Visa         ,chris             ,London         ,England          ,United Kingdom
+24             ,1/1/09 20:21     ,Product6 ,900   ,Visa         ,maxine            ,Morton         ,IL               ,United States
+25             ,1/8/09 0:42      ,Product3 ,2000  ,Visa         ,family            ,Los Gatos      ,CA               ,United States
+26             ,1/8/09 3:56      ,Product8 ,1550  ,Mastercard   ,katherine         ,New York       ,NY               ,United States
+27             ,1/8/09 3:16      ,Product8 ,1550  ,Mastercard   ,linda             ,Miami          ,FL               ,United States
+28             ,1/8/09 1:59      ,Product2 ,700   ,Mastercard   ,sylvia            ,Vesenaz        ,Geneve           ,Switzerland
+29             ,1/3/09 9:03      ,Product2 ,700   ,Diners       ,sheila            ,Brooklyn       ,NY               ,United States
+30             ,1/5/09 13:17     ,Product1 ,1200  ,Mastercard   ,stephanie         ,Badhoevedorp   ,Noord-Holland    ,Netherlands
+31             ,1/6/09 7:46      ,Product1 ,1200  ,Amex         ,kelly             ,Reston         ,VA               ,United States
+32             ,1/5/09 20:00     ,Product3 ,2000  ,Visa         ,james             ,Burpengary     ,Queensland       ,Australia
+33             ,1/8/09 16:24     ,Product5 ,1800  ,Visa         ,jennifer          ,Phoenix        ,AZ               ,United States
+34             ,1/9/09 6:39      ,Product5 ,1800  ,Mastercard   ,anneli            ,Houston        ,TX               ,United States
+35             ,1/6/09 22:19     ,Product7 ,400   ,Amex         ,ritz              ,Pittsfield     ,VT               ,United States
+36             ,1/6/09 23:00     ,Product6 ,900   ,Amex         ,sylvia            ,Pittsfield     ,VT               ,United States
+37             ,1/7/09 7:44      ,Product4 ,100   ,Mastercard   ,marie             ,Ball Ground    ,GA               ,United States
+38             ,1/3/09 13:24     ,Product4 ,100   ,Visa         ,mehmet fatih      ,Helsingor      ,Frederiksborg    ,Denmark
+39             ,1/7/09 15:12     ,Product2 ,700   ,Visa         ,anabela           ,Flossmoor      ,IL               ,United States
+40             ,1/7/09 20:15     ,Product3 ,2000  ,Amex         ,nicole            ,Houston        ,TX               ,United States
+41             ,1/3/09 10:11     ,Product2 ,700   ,Visa         ,christiane        ,Delray Beach   ,FL               ,United States
+42             ,1/9/09 15:58     ,Product1 ,1200  ,Mastercard   ,sari              ,Newbury        ,England          ,United Kingdom
+43             ,1/3/09 13:11     ,Product6 ,900   ,Mastercard   ,simone            ,Kobenhavn      ,Kobenhavn        ,Denmark
+44             ,1/10/09 12:57    ,Product7 ,400   ,Amex         ,vanessa           ,Sandy Springs  ,GA               ,United States
+45             ,1/7/09 20:15     ,Product3 ,2000  ,Amex         ,nicole            ,Houston        ,TX               ,United States
+46             ,1/3/09 10:11     ,Product2 ,700   ,Visa         ,christiane        ,Delray Beach   ,FL               ,United States
+47             ,1/9/09 15:58     ,Product1 ,1200  ,Mastercard   ,sari              ,Newbury        ,England          ,United Kingdom
+48             ,1/3/09 13:11     ,Product6 ,900   ,Mastercard   ,simone            ,Kobenhavn      ,Kobenhavn        ,Denmark
+49             ,1/10/09 12:57    ,Product7 ,400   ,Amex         ,vanessa           ,Sandy Springs  ,GA               ,United States

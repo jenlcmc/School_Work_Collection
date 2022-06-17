@@ -1,0 +1,9 @@
+two -> four
+three -> seven
+zero -> three
+one -> three
+two -> seven
+three -> five
+zero -> four
+four -> six
+three -> six

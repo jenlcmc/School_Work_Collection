@@ -1,0 +1,171 @@
+#include "binTree.h"
+
+binTree::binTree()
+{
+    root = NULL;
+}
+
+binTree::binTree(vector<bool> apples)
+{
+    root = new binTreeNode;
+    root->apple = apples[0];
+    root->left = root->right = NULL;
+
+    buildTree(root, apples, 0);
+}
+
+binTree::~binTree()
+{
+    destroyTree(root);
+}
+
+int binTree::minTime()
+{
+    return minTime(root, 0);
+}
+
+void binTree::destroyTree(binTreeNode *r)
+{
+    if (r != NULL)
+    {
+        destroyTree(r->left);
+        destroyTree(r->right);
+
+        r->left = r->right = NULL;
+        delete r;
+        r = NULL;
+    }
+}
+
+void binTree::buildTree(binTreeNode *r, vector<bool> apples, int i)
+{
+    int leftPos = (i * 2) + 1;
+    int rightPos = (i * 2) + 2;
+
+    if (leftPos < apples.size() || rightPos < apples.size())
+    {
+        r->left = new binTreeNode;
+        r->left->apple = apples[leftPos];
+        r->left->left = r->left->right = NULL;
+        buildTree(r->left, apples, leftPos);
+
+        r->right = new binTreeNode;
+        r->right->apple = apples[rightPos];
+        r->right->right = r->right->left = NULL;
+        buildTree(r->right, apples, rightPos);
+    }
+}
+
+int binTree::minTime(binTreeNode *r, int time)
+{
+    // cout << "Print tree: " << endl;
+    // print2D(r);
+    int L = 0;
+    int R = 0;
+    int leftPath = 0;
+    int rightPath = 0;
+    int tmp = 0;
+    int sumLR = 0;
+    bool oneSide = false;
+
+    // base case -> tree has nothing
+    if (r == NULL)
+    {
+        return 0;
+    }
+
+    if (r->apple == true && r->left == NULL && r->right == NULL)
+    {
+        cout << "NULL + true + time: " << time * 2 << endl;
+        return time * 2;
+    }
+
+    if (r->left != NULL && r->right != NULL && r->apple == true)
+    {
+        tmp = time * 2;
+        cout << "tmp = " << tmp << endl;
+        if (r->left->left == NULL && r->left->right == NULL && r->apple == true)
+        {
+            time = 0;
+            cout << " not NULL + true + time: " << time * 2 << endl;
+            return (time * 2);
+        }
+    }
+
+    leftPath = minTime(r->left, (time + 1));
+    // cout << "left: " << leftPath << endl;
+
+    rightPath = minTime(r->right, (time + 1));
+    // cout << "right: " << rightPath << endl;
+
+    // cout << "total: " << leftPath + rightPath << endl;
+
+    // L += countLeft(r->left);
+    // R += countLeft(r->right);
+    //   int i = 0;
+    //   i++;
+
+    cout << L << " " << R << endl;
+
+    // cout << "left: " << maxLeft << " right: " << maxRight << endl;
+
+    return leftPath + rightPath - tmp;
+}
+
+/*void binTree::print2DUtil(binTreeNode *r, int space)
+{
+    // Base case
+    if (r == NULL)
+        return;
+
+    // Increase distance between levels
+    space += 10;
+
+    // Process right child first
+    print2DUtil(r->right, space);
+
+    // Print current node after space
+    // count
+    cout << endl;
+    for (int i = 10; i < space; i++)
+        cout << " ";
+    cout << r->apple << "\n";
+
+    // Process left child
+    print2DUtil(r->left, space);
+}
+
+// Wrapper over print2DUtil()
+void binTree::print2D(binTreeNode *r)
+{
+    // Pass initial space count as 0
+    print2DUtil(r, 0);
+}
+
+void binTree::printTree(binTreeNode *r)
+{
+    if (r == NULL)
+        return;
+
+    cout << r->apple << endl;
+    printTree(r->left);
+    printTree(r->right);
+
+    return;
+}*/
+
+int binTree::countLeft(binTreeNode *r)
+{
+    if (r == NULL)
+        return 0;
+
+    if (r->apple == true)
+    {
+        return 1;
+    }
+
+    int sum = 0;
+    sum += countLeft(r->left) + countLeft(r->right);
+
+    return sum;
+}

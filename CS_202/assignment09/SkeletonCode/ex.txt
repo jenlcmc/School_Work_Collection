@@ -1,0 +1,379 @@
+YOUR CONTACTS:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Thalia Harris
+60 S. 6th Dr.     City:
+686-961-6036
+Friend from the college
+Chillicothe
+Floral Park
+Monsey
+State: OH
+State: NY
+State: NY
+ZIP: 4560
+ZIP: 11001
+ZIP: 10952
+MAIN MENU
+==============
+Next              (s)
+Previous          (w)
+Go to first       (f)
+Display all       (d)
+Display tree      (t)
+Search            (j)
+Quit              (q)
+Choice: s
+YOUR CONTACTS:
+Name: Dax Atkinson
+Street: 531
+Phone:
+Notes:
+Prince Ave. City:
+391-437-0175
+Met at the AU trip
+Floral Park State: NY
+ZIP: 11001
+Dax Atkinson
+531 Prince Ave.
+391-437-0175
+Met at the AU trip
+Averi Navarro
+7381 Locust Ave.
+247-925-4306
+Moms uncle
+City:
+City:
+Name: Averi Navarro
+Street: 7381 Locust Ave.
+Phone:      247-925-4306
+Notes:      Moms uncle
+Name: Nico Fox
+Street: 69 Mountainview Court
+Phone:      646-948-1593
+Notes:      Family
+MAIN MENU
+==============
+Next              (s)
+Previous          (w)
+Go to first       (f)
+Display all       (d)
+Display tree      (t)
+Search            (j)
+Quit              (q)
+Choice: d
+City: Monsey
+City: Conway
+State: NY
+State: SC
+ZIP: 10952
+ZIP: 29526
+ Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Thalia Harris
+60 S. 6th Dr.     City:
+686-961-6036
+Friend from the college
+Dax Atkinson
+531 Prince Ave.   City:
+391-437-0175
+Met at the AU trip
+Averi Navarro
+7381 Locust Ave.  City:
+247-925-4306
+Moms uncle
+Nico Fox
+69 Mountainview Court
+646-948-1593
+Family
+Maci Rios
+8667 Laurel Lane  City:
+213-462-2748
+Family
+Dalia Gillespie
+501 Lancaster Street
+751-973-5789
+From the CS class
+Chillicothe State: OH
+Floral Park State: NY
+ZIP: 4560
+ZIP: 11001
+ZIP: 10952
+
+Aydan Lyons
+7 Del Monte Road
+418-843-8331
+Met in California
+Khloe Pham
+7333 Lilac Dr.
+796-899-6383
+Airport friend
+Annabella Newman
+7949 Clay Rd.
+637-506-6720
+Moms friend
+Dominic Keith
+382 Forest Rd.
+553-426-1242
+Taxi driver
+Greyson Rowland
+348 Talbot St.
+514-974-8811
+Met at graduation party
+Emiliano Carson
+9310 Shirley Avenue
+City:
+City:
+City:
+City:
+Sarasota    State: FL
+ZIP: 34231
+City:
+Longwood
+State: FL
+ZIP: 32779
+Monsey
+City: Conway
+Lititz
+State: NY
+City: New Bern
+State: NC   ZIP:
+Bear  State: DE
+ZIP: 19701
+State: PA
+ZIP: 17543
+Coraopolis  State: PA   ZIP: 15108
+Menomonee Falls
+State: WI   ZIP:
+53051
+40207
+City: Louisville  State: KY   ZIP:
+State: SC   ZIP:
+29526
+28560
+
+ Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+Name:
+Street:
+Phone:
+Notes:
+513-720-0765
+Anna’s friend
+Jakob Brock
+598 Fulton Rd.
+801-416-3589
+Insurance agent
+City: Winter Haven
+State: FL
+State: VA
+State: MI
+ZIP: 33880
+ZIP: 23601
+ZIP: 49221
+
+Cecilia Browning
+604 Edgemont Dr.  City: Newport News
+600-953-5693
+Banking advisor
+Nancy Herrera
+608 S. La Sierra Circle City: Adrian
+876-768-3063
+Airline representative
+Emmett Haynes
+256 Vine Street
+605-726-6745
+Work friend
+Alisson Walter
+65 Logan Dr.
+590-331-4501
+Dads family
+Gregory Caldwell
+326 N. Wood Ave.
+297-310-0427
+Grandpas brother
+City: Beverly
+State: MA
+ZIP: 1915
+City: Miami State: FL
+City: Port Saint Lucie
+ZIP: 33125
+State: FL
+ZIP: 34952
+
+MAIN MENU
+==============
+Next              (s)
+Previous          (w)
+Go to first       (f)
+Display all       (d)
+Display tree      (t)
+Search            (j)
+Quit              (q)
+Choice: t
+TREE:
+id=1  name=Thalia Harris
+      id=2  name=Dax Atkinson
+id=3  name=Averi Navarro
+id=4  name=Nico Fox
+      id=5  name=Maci Rios
+            id=6  name=Dalia Gillespie
+id=7  name=Aydan Lyons
+      id=8  name=Khloe Pham
+            id=9  name=Annabella Newman
+                  id=10 name=Dominic Keith
+                        id=11 name=Greyson Rowland
+                              id=12 name=Emiliano Carson
+id=13 name=Jakob Brock
+      id=14 name=Cecilia Browning
+            id=15 name=Nancy Herrera
+id=16 name=Emmett Haynes
+      id=17 name=Alisson Walter
+            id=18 name=Gregory Caldwell
+MAIN MENU
+==============
+Next        (s)
+Previous    (w)
+Go to first (f)
+Display all (d)
+Display tree
+Search
+Quit
+Choice: j
+Choose search criteria:
+SEARCH MENU
+==============
+First name  (1)
+Last name   (2)
+City        (3)
+State       (4)
+Back to previous menu   (q)
+Choice: 4
+Enter keyword/string: FL
+searching against the keyword: FL
+(j) (q)
+(t)
+
+Records matching:
+Aydan
+Greyson
+Jakob
+Alisson
+Gregory
+Lyons
+Rowland
+Brock
+Walter
+Caldwell
+7 Del Monte Road
+348 Talbot St.
+598 Fulton Rd.
+65 Logan Dr.
+326 N. Wood Ave.
+(s)
+(w)
+(f)
+(d)
+(t)
+(j)
+(q)
+Sarasota
+Longwood
+Winter Haven
+Miami
+Port Saint Lucie
+FL 34231 FL 32779 FL 33880 FL 33125 FL 34952
+phone=418-843-8331
+phone=514-974-8811
+phone=801-416-3589
+phone=590-331-4501
+phone=297-310-0427
+Met in California
+Met at graduation party
+Insurance agent
+Dads family
+Grandpas brother
+MAIN MENU
+==============
+Next
+Previous
+Go to first
+Display all
+Display tree
+Search
+Quit
+Choice: q

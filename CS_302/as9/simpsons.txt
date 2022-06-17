@@ -1,0 +1,18 @@
+Marge -> Bart
+Jebediah -> Abe
+Maggie -> Mr. Burns
+Jebediah -> Mr. Burns
+Jebediah -> Maggie
+Marge -> Lisa
+Jebediah -> Mona
+Homer -> Lisa
+Marge -> Maggie
+Jebediah -> Homer
+Mona -> Homer
+Jebediah -> Lisa
+Mrs. Bouvier -> Marge
+Jebediah -> Bart
+Jebediah -> Mrs. Bouvier
+Homer -> Bart
+Jebediah -> Marge
+Abe -> Homer

@@ -1,0 +1,7 @@
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\bin\Debug\Week1.exe.config
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\bin\Debug\Week1.exe
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\bin\Debug\Week1.pdb
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\obj\Debug\Week1.csprojAssemblyReference.cache
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\obj\Debug\Week1.csproj.CoreCompileInputs.cache
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\obj\Debug\Week1.exe
+C:\Users\kiity\iCloudDrive\Desktop\egg_lab\Week1\Week1\obj\Debug\Week1.pdb

@@ -1,0 +1,60 @@
+Enter file: simpsons.txt
+
+Relative Name: Abe
+List of ancestors
+Jebediah
+
+Relative Name: Bart
+List of ancestors
+Abe
+Homer
+Jebediah
+Marge
+Mona
+Mrs. Bouvier
+
+Relative Name: Homer
+List of ancestors
+Abe
+Jebediah
+Mona
+
+Relative Name: Jebediah
+List of ancestors
+None
+
+Relative Name: Lisa
+List of ancestors
+Abe
+Homer
+Jebediah
+Marge
+Mona
+Mrs. Bouvier
+
+Relative Name: Maggie
+List of ancestors
+Jebediah
+Marge
+Mrs. Bouvier
+
+Relative Name: Marge
+List of ancestors
+Jebediah
+Mrs. Bouvier
+
+Relative Name: Mona
+List of ancestors
+Jebediah
+
+Relative Name: Mr. Burns
+List of ancestors
+Jebediah
+Maggie
+Marge
+Mrs. Bouvier
+
+Relative Name: Mrs. Bouvier
+List of ancestors
+Jebediah
+

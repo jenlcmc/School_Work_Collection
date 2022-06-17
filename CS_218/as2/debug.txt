@@ -1,0 +1,48 @@
+set logging overwrite
+set logging file answers.txt
+set logging on
+echo 1.  
+x/dw &doubleAnswer1
+echo 2.  
+x/uw &doubleAnswer2
+echo 3.  
+x/ug &quadAnswer3
+echo 4.  
+x/ug &quadAnswer4
+echo 5.  
+x/dg &quadAnswer5
+echo 6.  
+x/dh &wordAnswer6
+echo 7.  
+x/dw &doubleAnswer7
+echo 8.  
+x/ug &quadAnswer8
+echo 9.  
+x/dw &doubleAnswer9
+echo 10.  
+x/uh &wordAnswer10
+echo 11.  
+x/ug &quadAnswer11
+echo 12.  
+x/2ug &doubleQuadAnswer12
+echo 13.  
+x/dh &wordAnswer13
+echo 14a.  
+x/ub &byteAnswer14
+echo 14r.  
+x/ub &byteRemainder14
+echo 15.  
+x/uh &wordAnswer15
+echo 16.  
+x/uh &wordRemainder16
+echo 17.  
+x/db &byteAnswer17
+echo 18.  
+x/dh &wordAnswer18
+echo 19a.  
+x/dw &doubleAnswer19
+echo 19r.  
+x/dw &doubleRemainder19
+echo 20.  
+x/dw &doubleRemainder20
+set logging off

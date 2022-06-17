@@ -1,0 +1,89 @@
+Example Output###@###:AS2$ g++ main_solution.cpp -Wall -pedantic
+###@###:AS2$ ./a.out
+Enter input File Name/(q-quit): AISData.csv
+File opened correctly
+----------------------
+1800000--- End of file reached ---Items read: 1899355
+1899355 records read
+Enter vessel name: bill
+1543 vessel records containing name "bill", Unique vessels: 2
+*******************************************
+Would you like to display the first record of each vessel? [y/n] y
+************************
+MMSI:         367007060
+Base Date Time: 2019-01-01T00:00:00
+Lattitude: 30.2898 Longitude: -91.2234
+SOG: 0.2
+COG: -196.3
+Heading: 511
+Vessel Name: BILL S
+imo: IMO7030963
+Call Sign: WDC3383
+Vessal Type: 31
+Status: 15
+Length: 30
+Width: 8
+Draft: 3.6
+Cargo: 0
+Transceiver Class: B
+************************
+MMSI:         366751770
+Base Date Time: 2019-01-01T11:27:05
+Lattitude: 49.9244 Longitude: -125.12
+SOG: 6.5
+COG: 131.1
+Heading: 132
+Vessel Name: BILLIE H
+imo: IMO8964719
+Call Sign: WCY4992
+Vessal Type: 31
+Status: 0
+Length: 27
+Width: 8
+Draft: 4.7
+Cargo: 32
+Transceiver Class: B
+Would you like to find the distance traveled for a vessel? [y/n] y
+MMSI for vessel: 366751770
+***************
+Vessel: "BILLIE H" MMSI: 366751770  Trip Starting time: 2019-01-01T11:27:05
+Distance traveled from (49.9244, -125.12) to (49.1369, -123.534) 89.5485 Miles
+Enter vessel name: maersk
+15706 vessel records containing name "maersk", Unique vessels: 29
+*******************************************
+Would you like to display the first record of each vessel? [y/n] n
+Would you like to find the distance traveled for a vessel? [y/n] n
+Enter vessel name: mearsk
+0 vessel records containing name "mearsk", Unique vessels: 0
+*******************************************
+Enter vessel name: atomic
+363 vessel records containing name "atomic", Unique vessels: 1
+*******************************************
+Would you like to display the first record of each vessel? [y/n] y
+************************
+MMSI:         319071600
+Base Date Time: 2019-01-01T00:04:11
+Lattitude: 26.7489 Longitude: -80.0499
+SOG: 0
+COG: 186.5
+Heading: 182
+Vessel Name: ATOMIC
+imo: IMO1009807
+Call Sign: ZGEG8
+Vessal Type: 37
+Status: 5
+Length: 45
+Width: 9
+Draft: 2.8
+Cargo:
+Transceiver Class: A
+Would you like to find the distance traveled for a vessel? [y/n] y
+MMSI for vessel: 319071600
+***************
+Vessel: "ATOMIC" MMSI: 319071600  Trip Starting time: 2019-01-01T00:04:11
+Distance traveled from (26.7489, -80.0499) to (26.7489, -80.0499) 0.00151337 Miles
+Enter vessel name: nothing
+0 vessel records containing name "nothing", Unique vessels: 0
+*******************************************
+Enter vessel name: q
+Memory returned for vectors
