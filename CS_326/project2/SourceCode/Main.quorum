@@ -1,0 +1,261 @@
+use Libraries.Compute.Random // use for computer rand
+/* 
+    This is a default class named Main. It has one action, also named Main,
+    that starts the program.
+*/
+class Main
+    action Main
+
+        // prompt the game
+        text header = "Welcome to Rock-Paper-Scissors-Lizard-Spock Game"
+        text prompt = "To play: Please choose from 1-5
+                   -1= rock
+                   -2= paper
+                   -3=scissors
+                   -4=lizard
+                   -5=spock
+                    "
+        //explain the rules
+        text rules = "Here are the rules for the game: 
+                  -Scissors cut paper.
+                  -Paper covers rock.
+                  -Rock crushes lizard.
+                  -Lizard poisons Spock.
+                  -Spock smashes scissors.
+                  -Scissors decapitate lizard.
+                  -Lizard eats paper.
+                  -Paper disproves Spock.
+                  -Spock vaporizes rock.
+                  -Rock crushes scissors.
+                    "
+        //output them
+        output header
+        output prompt
+        output rules
+        
+        text rePrompt = "y"
+        //driven logic for restart the game or quit based on y/n
+        repeat while rePrompt = "y" or rePrompt = "Y"
+            Logic()
+            rePrompt = input("Do you want to play again? (y/n)")
+            output "You choose: " + rePrompt
+        end
+        
+        //if user choose n
+        output "Goodbye"
+        
+    end
+    
+/*
+function: Logic -> use to play the game. It will handle user input & check for it and generate the computer input
+then output result based on number from user & computer
+*/
+    action Logic
+        //ask for user input
+        text choose = input("Choose between 1(rock), 2(paper), 3(scissors), 4(lizard), 5(spock)")
+        
+        //connvert + check
+        check
+            integer User = cast(integer, choose)
+        
+        //call UserLogic() function to check whether the input between 1 & 5
+        User = UserLogic(User)
+
+        //if user enter wrong -> terminate
+
+        if User not= 0
+        
+            //generate rand number for computer
+            Random random
+            integer Computer = random:RandomIntegerBetween(1, 5)
+        
+            // convert it into text/output the rules
+            text PlayerText = numToWord(User)
+            text ComputerText =  numToWord(Computer)
+        
+            //output the choices from user & computer
+            output "You choose: " + User + " - " + PlayerText    
+            output "Computer choose: " + Computer + " - " + ComputerText   
+        
+            //output the choices from user & computer
+            integer res = GameRules(User, Computer)
+
+            if res = 1
+                output " "
+                output "Hooray, you win"  
+            elseif res = 2
+                output " "
+                output "Oh no, computer win"  
+            else
+                output " "
+                output "Tie result" 
+            end  
+        end 
+        
+        detect e
+            output "Please enter number only"
+        end
+
+    end
+    
+/*
+Function: GameRules -> Depend on user and computer number, it will output the rule why user/comp win
+then it will return integer to determine who won
+*/
+    action GameRules(integer user, integer comp) returns integer
+        integer res = 0
+        // res = 1 -> user win
+        // res = 2 -> comp win
+        // res = 3 -> tie
+        
+        if user = comp
+            res = 3
+        end
+        
+        //case 1: scissor and paper
+        if (user = 3 and comp = 2) or (comp = 3 and user = 2)
+            output " "
+            output "-Scissors cut paper."
+            if user = 3 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 2:paper and rock
+        if (user = 2 and comp = 1) or (comp = 2 and user = 1)
+            output " "
+            output "-Paper covers rock."
+            if user = 2 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 3: rock & lizard
+        if (user = 1 and comp = 4) or (comp = 1 and user = 4)
+            output " "
+            output "-Rock crushes lizard."
+            if user = 1 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 4: lizard and spock
+        if (user = 4 and comp = 5) or (comp = 4 and user = 5)
+            output " "
+            output "-Lizard poisons Spock."
+            if user = 4 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 5: spock and scirssors
+        if (user = 5 and comp = 3) or (comp = 5 and user = 3)
+            output " "
+            output "-Spock smashes scissors."
+            if user = 5 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 6: scissors and lizard
+        if (user = 3 and comp = 4) or (comp = 3 and user = 4)
+            output " "
+            output "-Scissors decapitate lizard."
+            if user = 3 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 7: lizard and paper
+        if (user = 4 and comp = 2) or (comp = 4 and user = 2)
+            output " "
+            output "-Lizard eats paper."
+            if user = 4 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 8: paper and spock
+        if (user = 2 and comp = 5) or (comp = 2 and user = 5)
+            output " "
+            output "-Paper disproves Spock."
+            if user = 2 
+                res = 1
+            else 
+                res = 2
+            end
+        end     
+        
+        //case 9: spock and rock
+        if (user = 5 and comp = 1) or (comp = 5 and user = 1)
+            output " "
+            output "-Spock vaporizes rock."
+            if user = 5 
+                res = 1
+            else 
+                res = 2
+            end
+        end        
+        
+        //case 10: rock and scissors
+        if (user = 1 and comp = 3) or (comp = 1 and user = 3)
+            output " "
+            output " -Rock crushes scissors."
+            if user = 1 
+                res = 1
+            else 
+                res = 2
+            end
+        end
+
+        return res
+    end
+    
+    /*
+    Function: UserLogic -> Use to check whether the user input between 1 & 5 or not. If not then reprompt until user enter correct
+    */
+    action UserLogic(integer choice) returns integer
+       if choice < 1 or choice > 5
+           text wrong = "Wrong number. Game end"
+           output wrong
+           choice = 0
+       end
+       return choice
+    end
+     
+     /*
+    Function: numToWord -> convert 1-5 into rock-paper-scissor-lizard-spock
+    */
+     action numToWord(integer num) returns text
+        text ans = "None"
+
+        if num = 1 
+            ans = "Rock"
+        elseif num = 2
+            ans = "Paper"   
+        elseif num = 3
+            ans = "Scissor"
+        elseif num =    4 
+            ans = "Lizard"
+        elseif num = 5
+            ans = "Spock"
+        end
+        return ans
+    end
+    
+
+end

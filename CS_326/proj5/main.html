@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 4</title>
+</head>
+
+<style>
+    .multicolortext {
+        background-image: repeating-linear-gradient(50deg, pink, red, orange, yellow);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+        background-image: repeating-linear-gradient(45deg, red, orange, green, blue, purple);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+
+    p {
+        margin: 0;
+    }
+
+    .button {
+        padding: 15px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+    }
+
+    .startBox {
+        background-color: lightblue;
+        width: 300px;
+        height: 60px;
+        text-align: center;
+        font-size: 40px;
+        position: relative;
+        left: 152px;
+    }
+
+    .speedBox {
+        background-color: lightblue;
+        width: 600px;
+        height: 60px;
+        text-align: center;
+        font-size: 15px;
+        position: relative;
+        left: 460px;
+        top: -60px;
+    }
+
+    .stopBox {
+        background-color: lightblue;
+        width: 285px;
+        height: 60px;
+        text-align: center;
+        font-size: 40px;
+        position: relative;
+        left: 1070px;
+        top: -120px;
+    }
+
+    .hitBox {
+        background-color: lightblue;
+        width: 300px;
+        height: 100px;
+        text-align: center;
+        font-size: 30px;
+        position: relative;
+        left: 152px;
+        top: -110px;
+    }
+
+    .posBox {
+        background-color: lightblue;
+        width: 900px;
+        height: 100px;
+        text-align: center;
+        font-size: 30px;
+        position: relative;
+        left: 460px;
+        top: -210px;
+    }
+
+    canvas {
+        background-color: lightgreen;
+        width: "1200";
+        height: "400";
+        border: 1px;
+    }
+</style>
+
+<script type="text/javascript">
+    //fucntion to get randome position for the mole to jump
+    function getpos(min, max) {
+        return Math.random() * (max - min) + min;
+    }
+
+    //start function that handle most of the logic
+    function start() {
+        var hit = 0;
+        //get canvas
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+        canvas.style.pointerEvents = "auto";
+
+        //draw image at random position until user click stop button which is call stop() 
+        var img = new Image();
+        img.src = "mole.png";
+        //set speed based on user input
+        var speed = document.getElementById("speed").value;
+        //check that speed is between 100 and 10000 
+        if (speed < 100 || speed > 10000) {
+            alert("Speed must be between 100 and 10000");
+            return;
+        } else {
+
+            //draw it at random location and then clear it before draw new one
+            //then detect if the user click the draw image
+            //if click then add 1 into hitbox
+            //if not click then add 0 into hit box
+            var interval = setInterval(function () {
+                //clear to draw new one
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                //get position
+                x = getpos(0, 1100);
+                y = getpos(0, 300);
+                //then write it into x and y boxes
+                //round to 2 decimal places
+                document.getElementById("posX").value = x.toFixed(2);
+                document.getElementById("posY").value = y.toFixed(2);
+                //draw imagine
+                ctx.drawImage(img, x, y, 50, 50);
+            }, speed);
+
+            //detect if user click the image
+            canvas.addEventListener("click", function (event) {
+                //get the position of the click
+                var rect = canvas.getBoundingClientRect();
+                var x1 = event.clientX - rect.left;
+                var y1 = event.clientY - rect.top;
+                //check if the click is within the image
+                //if yes then increment the hit box value
+                if (x1 >= x && x1 <= x + 50 && y1 >= y && y1 <= y + 50) {
+                    hit = parseInt(document.getElementById("hit").value);
+                    //convert to int
+                    hit += 1;
+                    document.getElementById("hit").value = hit;
+                }
+            });
+
+            //detect when user click stop button
+            document.getElementById("stop").addEventListener("click", function () {
+                clearInterval(interval);
+                stop();
+            });
+        }
+    }
+
+    function stop() {
+        //clear hit box value and set it into 0
+        var clear = 0;
+        document.getElementById("hit").value = clear;
+        //make sure that the user can't click anything inside of the canvas
+        //after they click stop button
+        var canvas = document.getElementById("canvas");
+        canvas.style.pointerEvents = "none";
+    }
+
+</script>
+
+<body style="background-color: black;"">
+    <h1 class=" multicolortext">CS 326 project 5; Wack-The-Mole</h1>
+    <h1 class=" multicolortext"> Uyen Tran </h1>
+    <h2>&#128045;Setting up the speed first before click start & set up speed after stop.&#128045;</h2>
+    <h2>&#128481; Play some Witcher 3 music and have fun &#128481;</h2>
+    <div>
+        <audio controls style="margin: 0 auto; display: block;" src="Witcher3.mp3">
+            <p style="text-align: center; color: white;">If you read this then browser not support audio
+                play</p>
+        </audio>
+
+    </div>
+    <hr>
+
+    <div style=" text-align:center;">
+        <canvas id="canvas" width="1200" height="400" style="border:1px solid #000000;">
+            Your browser does not support the HTML canvas tag.
+        </canvas>
+    </div>
+
+    <div class="startBox">
+        <button class="button" onclick="start()">Start</button>
+    </div>
+
+    <div class="speedBox">
+        <label for="speed">Speed:</label>
+        <input type="text" id="speed" name="speed" value="0">
+        <p>m sec. between jump</p>
+    </div>
+
+    <div class="stopBox">
+        <button id="stop" class="button" onclick="stop()">Stop</button>
+    </div>
+
+    <div class=" hitBox">
+        <label for="hitBox">&#128045;Hits: </label>
+        <input type="text" id="hit" name="hit" value=0 readonly="true">
+    </div>
+
+    <div class="posBox">
+        <label for="posBox">Current Position: </label>
+        <input type="text" id="posX" name="posX" value="0" readonly="true">:X </input>
+        <input type="text" id="posY" name="posY" value="0" readonly="true">:Y </input>
+    </div>
+
+</body>
+
+</html>

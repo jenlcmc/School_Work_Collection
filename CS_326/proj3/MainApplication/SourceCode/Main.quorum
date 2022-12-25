@@ -1,0 +1,219 @@
+use Libraries.Containers.Array //library to use Array
+use Libraries.Containers.Iterator //library to iteratir through out array
+use Libraries.Compute.Random //to generate rand nums for Arr
+use Libraries.Compute.Math //To use SqrtRoot function 
+use Libraries.Containers.MultipleLineText //for arraay utpu
+
+/* 
+    This is a default class named Main. It has one action, also named Main,
+    that starts the program.
+*/
+class Main
+
+    /*
+        This action, Main, starts our computer program. In Quorum, programs always
+        begin from Main.
+    */
+    action Main
+        //constant for MIN and MAX
+        integer MIN = 10
+        integer MAX = 1000000
+    
+        //ask for user input
+        text user = input("Please enter count number you want (MIN: 10, MAX: 1,000,000)")
+        //convert to integer from string
+        integer count = cast(integer, user)
+        
+        //validate user input -> Either run or terminate
+        if count < MIN or count > MAX   
+            output "You choose number that less than MIN or more than MAX"
+            output "Please restart the program"
+            return now
+        
+       else
+            //call function to populate numbers into array
+            GetData(count)
+       end
+    end
+    
+    /*Routine to create a list of random numbers. The routine should request the count of numbers to create from the user (via input). 
+    Then, the routine must place count many numbers in the array. 
+    Create random numbers between 0 and 10,000 (i.e., use: random:RandomIntegerBetween(0, 10000) )
+    */
+    action GetData(integer count)   
+        //create obj of array type
+        Array<integer> arr
+        
+        //set up index to run 
+        integer i = 0   
+        //obj for random
+        Random random
+        //run until end of arr
+        repeat until i >= count
+            //generate rand num + add to the end of arr
+            integer num = random:RandomIntegerBetween(0, 10000)
+            arr:AddToEnd(num)
+            i = i + 1
+        end
+        
+        //output the array before sorting
+        output "Array before sorting: 
+        "
+        DisplayNums(arr)
+
+        //call sort function to sort 
+        QuickSort(arr, 0, count - 1)
+        output " "
+        //display result (av, var, standard deri and sort array)
+        Stats(arr, count)
+   end
+    
+    /*Routine to sort the numbers into ascending order (small to large) using the
+    Quick Sort.
+    */
+    action QuickSort(Array<integer> arr, integer low, integer high)
+        //set up indices for the loop
+        integer i = low
+        integer j = high
+        integer h = 0
+        //to find mid of arr
+        integer x = arr:Get((low + high) / 2)
+        
+        //run until i < high
+        repeat while i <= j
+            //run again to increment i if i (low) < mid
+            repeat while arr:Get(i) < x
+                i = i + 1
+            end
+            //run again to decrement j if j > mid
+            repeat while arr:Get(j) > x
+                j = j -1 
+            end
+            
+            // if i <= j 
+            if i <= j 
+                //store arr at i to h
+                // replace num at arr[i] to arr[j]
+                // replace num at arr[j] with h
+                // increment i and decrement j
+                h = arr:Get(i)  
+                arr:Set(i, arr:Get(j))
+                arr:Set(j, h)
+                i = i + 1
+                j = j - 1
+            end
+        end
+        
+        //if low < j then recursion function
+        if low < j 
+            QuickSort(arr, low, j)
+        end
+        
+        //if i < high then recursion function
+        if i < high 
+           QuickSort(arr, i, high)
+        end
+    end
+    
+    /*
+    Routine to find the average, variance, and standard deviation of the numbers in the array.
+    */
+    action Stats(Array<integer> arr, integer size)
+       //calculate sum + average
+       integer sum = 0
+        //create an iterator to traverse our array
+       Iterator<integer> it = arr:GetIterator()
+       //Keep iterating if more elements exist
+       repeat while it:HasNext()
+           //get the next item.
+           integer value = it:Next()
+            //add sum
+           sum = sum + value
+       end
+       //find average
+       integer ave = sum / size
+       
+        
+        //find variance
+        integer sqrDiff = 0
+        //create an iterator to traverse our array
+       Iterator<integer> ptrIt = arr:GetIterator()
+       //Keep iterating if more elements exist
+       repeat while ptrIt:HasNext()
+           //get the next item.
+           integer val = ptrIt:Next()
+           //sqrt += (array(i)− ave)^2)
+           sqrDiff = sqrDiff + ((val - ave) * (val - ave))
+       end
+        //[sqrt += (array(i)− ave)^2)] / (size -1)
+        integer variance = sqrDiff / (size - 1)
+        
+        //to use math function sqrtRoot
+        Math math
+        //find stdDeri
+        number stdDeri = math:SquareRoot(variance)
+        
+        //call function to display result and sorted arr
+        DisplayData(arr, ave, variance, stdDeri)
+    end
+     
+    /*Routine to display the results of the program, including the average, variance, and standard deviation and sorted numbers. 
+    This routine must call the DisplayNums routine to display the sorted arrayine).
+    */
+    action DisplayData(Array<integer> arr, integer ave, integer var, number sd)
+        //output sorted arr
+        output "Sorted Array: 
+        "
+        DisplayNums(arr)
+        
+        //output calculations
+        output " "
+        output "Average of array: " + ave
+        output "Variance of array: " + var
+        output "Standard deviation : " + sd
+    end
+    
+    /*
+    Routine to display the numbers in the array (up to count).
+    */
+    action DisplayNums(Array<integer> array)
+        //get 1st val
+       integer i = 1
+       //decalre obj for multiple items
+       MultipleLineText out
+
+       //start to get item
+       Iterator<integer> it = array:GetIterator()
+       integer value = it:Next()
+
+       //add space
+       out:Initialize(cast(text, value))
+       out = out:Concatenate(" ")
+
+       //Keep iterating
+       repeat while it:HasNext()
+           //get the next item + concentrate it
+           value = it:Next()
+           out = out:Concatenate(cast(text, value) + " ")
+       
+           //check if 10 items or not
+           if array:GetSize() > 10
+           //check size of array
+              if i mod 9 = 0
+              //output 10 items
+               output out:GetText()
+                //delete old one
+               out = out:Delete(0, out:GetSize())
+               //start new one
+               if it:HasNext()
+               value = it:Next()
+               out:Initialize(cast(text, value) + " ")
+                end
+            end
+        end
+      i = i + 1
+      end
+      output out:GetText()
+   end
+    
+end

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 4</title>
+</head>
+
+<style>
+    h1 {
+        text-align: center;
+    }
+
+    .box {
+        background-color: lightsalmon;
+        border: 3px solid black;
+        margin: auto;
+        width: 40%;
+        padding: 100px;
+    }
+
+    table {
+        background-color: white;
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    td,
+    th {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+        border-collapse: collapse;
+    }
+
+    label {
+        display: inline-block;
+        text-align: left;
+    }
+
+    input {
+        margin: 3px;
+        display: inline-block;
+        text-align: center;
+        padding: 5px;
+    }
+
+    label span {
+        display: inline-block;
+        text-align: left;
+        width: 300px;
+        font-weight: bold;
+        font-size: 20px;
+
+    }
+
+    hr {
+        height: 1px;
+        background-color: black;
+        border: none;
+    }
+
+    p {
+        text-align: left;
+        font-weight: bold;
+        font-size: 30px;
+    }
+</style>
+
+<script type="text/javascript">
+    function calculate() {
+        //get all the elemnt
+        var inputs = document.getElementsByTagName("input");
+        //loop through to error check
+        for (var i = 0; i < inputs.length; i++) {
+            //make sure that the inputs are text value
+            if (inputs[i].type == "text") {
+                //validate empty string
+                if (inputs[i].value == "" && inputs[i].id != "total" && inputs[i].id != "payment") {
+                    alert("Please enter valid numbers");
+                    return;
+                }
+                //if string -> error
+                if (isNaN(inputs[i].value) && inputs[i].id != "total" && inputs[i].id != "payment") {
+                    alert("Error. " + inputs[i].id + " does not appear to be a valid number. Please try again");
+                    return;
+                }
+                //if not string -> convert to number
+                if (!isNaN(inputs[i].value)) {
+                    inputs[i].value = parseFloat(inputs[i].value);
+                }
+                //inputs[0] = car amount
+                //inputs[1] = down payment
+                //inputs[2] = annual interest rate
+                //inputs[3] = term/year
+
+                //check that loan amount is less than or equal to $500, 000.00, 
+                //that the interest rate is between 0 % and 15 % (inclusive),
+                //and that the loan term is between 1 and 6 years. 
+                if (inputs[0].value > 500000) {
+                    alert("Error. Loan amount is greater than $500,000.00");
+                    return;
+                }
+                if (inputs[2].value < 0 || inputs[2].value > 15) {
+                    alert("Error. Interest rate is not between 0% and 15% (inclusive)");
+                    return;
+                }
+                if (inputs[3].value < 1 || inputs[3].value > 6) {
+                    alert("Error. Loan term is not between 1 and 6 years");
+                    return;
+                }
+
+                //calculate payment=amount * [monthly interest rate * (1 + monthly interest rate)^number of payments] / [(1 + monthly interest rate)^number of payments - 1]
+                var monthlyInterestRate = inputs[2].value / 1200;
+                var numberOfPayments = inputs[3].value * 12;
+                var payment = (inputs[0].value - inputs[1].value) *
+                    (monthlyInterestRate * Math.pow((1 + monthlyInterestRate), numberOfPayments))
+                    / (Math.pow((1 + monthlyInterestRate), numberOfPayments) - 1);
+                var totalPayments = payment * numberOfPayments;
+
+                //set up the result
+                //The payment amount and total cost should include fully formatted currency values (i.e., 
+                //$xx, xxx.xx) – including $ sign and commas as appropriate.
+                payment = payment.toFixed(2);
+                payment = payment.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                payment = "$" + payment;
+                totalPayments = totalPayments.toFixed(2);
+                totalPayments = totalPayments.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                totalPayments = "$" + totalPayments;
+
+                document.getElementById("payment").value = payment;
+                document.getElementById("total").value = totalPayments;
+
+                //access the table
+                var table = document.getElementById("table");
+                //clear data from row 3 to end  before populate  
+                for (var i = table.rows.length - 1; i >= 2; i--) {
+                    table.deleteRow(i);
+                }
+
+                //create n row in which n is number of months from inputs[3]
+                for (var i = 1; i <= numberOfPayments; i++) {
+                    var row = table.insertRow(2);
+                    var col1 = row.insertCell(0);
+                    var col2 = row.insertCell(1);
+                    var col3 = row.insertCell(2);
+                    var col4 = row.insertCell(3);
+                }
+
+                var index = 1;
+                //get payment2
+                var payment2 = parseFloat(document.getElementById("payment").value.replace(/[^0-9.-]+/g, ""));
+                var update_balance = inputs[0].value - inputs[1].value;
+
+                for (var j = 2; j <= numberOfPayments + 1; j++) {
+                    //update months
+                    document.getElementById("table").rows[j].cells[0].innerHTML = index;
+                    //calculate monthlyInterest
+
+                    var monthlyInterest = update_balance * monthlyInterestRate;
+                    var tmpMonthly = monthlyInterest;
+                    tmpMonthly = tmpMonthly.toFixed(2);
+                    tmpMonthly = tmpMonthly.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    tmpMonthly = "$" + tmpMonthly;
+                    document.getElementById("table").rows[j].cells[1].innerHTML = tmpMonthly;
+
+                    //calculate principal
+                    var prin = payment2 - monthlyInterest;
+                    var tmpPrin = prin;
+                    tmpPrin = tmpPrin.toFixed(2);
+                    tmpPrin = tmpPrin.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    tmpPrin = "$" + tmpPrin;
+                    document.getElementById("table").rows[j].cells[2].innerHTML = tmpPrin;
+
+                    //calculate balance
+                    update_balance = update_balance - prin;
+                    var tmpBalance = update_balance;
+                    tmpBalance = tmpBalance.toFixed(2);
+                    tmpBalance = tmpBalance.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    tmpBalance = "$" + tmpBalance;
+                    document.getElementById("table").rows[j].cells[3].innerHTML = tmpBalance;
+
+                    index = index + 1;
+                }
+            }
+        }
+    }
+
+</script>
+
+<body>
+    <h1>CS 326 JavaScript Car Loan Calculator</h1>
+    <h1> Uyen Tran </h1>
+    <hr>
+
+    <div class="box">
+        <form action="" id="form" onsubmit="return false;">
+            <label>
+                <span for="Car Amount">Car Cost Amount </span>
+                <input type="text" id="Car Amount" name="Car Amount" required>
+            </label>
+
+            <label>
+                <span for="Down Payment">Down Payment </span>
+                <input type="text" id="Down Payment" name="Down Payment" required>
+            </label>
+
+            <label>
+                <span for="Annual">Annual Interest Rate </span>
+                <input type="text" id="Annual" name="Annual" required>
+            </label>
+
+            <label>
+                <span for="Terms">Terms (in years) (1-6)</span>
+                <input type="text" id="Terms" name="Terms" required>
+            </label>
+
+            <input type="submit" value="Press to calculate auto loan information" onclick="calculate()">
+            <br>
+            <input type="reset" value="Reset form">
+
+            <hr>
+
+            <label>
+                <span for="payment">Monthly Payment</span>
+                <input type="text" id="payment" name="payment" readonly="true">
+            </label>
+
+            <label>
+                <span for="total">Total Cost of Loan</span>
+                <input type="text" id="total" name="total" readonly="true">
+            </label>
+
+            <p>Payment Schedule</p>
+
+            <table id="table">
+                <tr>
+                    <th>Car Payment Number</th>
+                    <th>Interest</th>
+                    <th>Principle</th>
+                    <th>Balance</th>
+                </tr>
+
+                <tr>
+                    <th> ---------- </th>
+                    <th> ---------- </th>
+                    <th> ---------- </th>
+                    <th> ---------- </th>
+                </tr>
+            </table>
+
+        </form>
+    </div>
+</body>
+
+</html>
