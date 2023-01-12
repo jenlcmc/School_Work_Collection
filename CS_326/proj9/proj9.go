@@ -1,4 +1,4 @@
-// Name: Uyen Tran
+
 // Project 9 CS 326
 /*Note: For the images, the pdf did not specify how the svg file content look like/ content of it
 so i just leave it with the content i scraped and i use src to get the images
