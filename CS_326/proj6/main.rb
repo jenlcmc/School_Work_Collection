@@ -1,4 +1,4 @@
-#Name: Uyen Tran Section 1002
+
 # Define the Scrabble score for each letter
 scores = { 'A' => 1,  'F' => 4,  'K' => 5,  'P' => 3,  'U' => 1,
            'B' => 2,  'G' => 2,  'L' => 1,  'Q' => 10, 'V' => 4,
