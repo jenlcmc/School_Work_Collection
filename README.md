@@ -1,6 +1,6 @@
 # School_Work_Collection
 ## Description
-This will be repo to hold all of my code/work that I did during my undergrad at UNLV. The code will demostrate by ability to code, think, and how to solve the assignment as well as code problems. Currently, this will hold my code from CS 135 - CS 302
+This will be repo to hold all of my code/work that I did during my undergrad at UNLV. The code will demostrate by ability to code, think, and how to solve the assignment as well as code problems. Currently, this will hold my code from CS 135 - CS 370
 
 - CS 135 - Computer Science 1 (c++) 
 - CS 202 - Computer Science 2 (c++) 
