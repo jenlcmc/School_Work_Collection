@@ -12,4 +12,5 @@ This will be repo to hold all of my code/work that I did during my undergrad at 
 - CS 218# - Intro to System Programming (x88-yasm and MIPS)
 - CS 326 - Prog.Lang Comp/Implements (Ruby, JS, HTML, CSS, quorum, Go...)
 - CS 370 - Operating System (C and C++)
-- CS 443 - Information Assurance
+- CS 469 - Images Processing
+- CS 489 - Data Science and Visualization
